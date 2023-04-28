@@ -36,7 +36,7 @@ Stefan: I shouldn't have come home. I know the risk. But I had no choice. I have
 Gilbert Residence
 [Elena is writing in her diary.]
 
-Elena: Dear diary, today will be different. It has to be. I will smile, and it will be believable. My smile will say "I'm fine, thank you." "Yes, I feel much better." I will no longer be the sad little girl who lost her parents. I will start fresh, be someone new. It's the only way I'll make it through.
+Elena: Dear diary, today will be different. It has to be. I will smile, and it will be believable. My smile will say I'm fine, thank you. Yes, I feel much better. I will no longer be the sad little girl who lost her parents. I will start fresh, be someone new. It's the only way I'll make it through.
 [In the kitchen.]
 
 Jenna: Toast. I can make toast.
@@ -73,13 +73,13 @@ Mystic Falls High School
 
 [Inside the school.]
 
-Bonnie: Major lack of male real estate. Look at the shower curtain on Kelly Beech. She looks like a hot — can I still say "tranny mess"?
+Bonnie: Major lack of male real estate. Look at the shower curtain on Kelly Beech. She looks like a hot ,  can I still say  tranny mess?
 Elena: No, that's over.
 Bonnie: Ahh, find a man, coin a phrase. It's a busy year.
 [Elena waves to Matt. He ignores her.]
 
 Elena: He hates me.
-Bonnie: That's not hate. That's "you dumped me, but I'm too cool to show it, but secretly I'm listening to Air Supply's greatest hits."
+Bonnie: That's not hate. That's you dumped me, but I'm too cool to show it, but secretly I'm listening to Air Supply's greatest hits.
 [Caroline approaches them.]
 
 Caroline: Elena. Oh, my god.
@@ -108,7 +108,7 @@ Tyler: Hey, Pete Wentz called. He wants his nail polish back.
 Jeremy: Pete Wentz, huh? How old school T.R.L. of you. Carson Daly fan?
 Vicki: Oh, Ty, be nice. That's Elena's little brother.
 Tyler: I know who he is. I'll still kick his ass.
-[Vicky/Tyler kiss]
+[Vicky and Tyler kiss]
 
 [Outside the school office.]
 
@@ -152,22 +152,22 @@ Secretary: You're welcome.
 [Outside the boy's bathroom.]
 
 Stefan: Uh, pardon me. Um...is this the men's room?
-Elena: Yes. Um, I was just, Um—I was just—It's a long story....
+Elena: Yes. Um, I was just, Um, I was just, It's a long story....
 [Elena tries to pass. Stefan makes way for her.]
 
 Elena: Thank you.
 [In the history class.]
 
-Tanner: Once our home state of Virginia joined confederacy in 1861, it created a tremendous amount of tension within the state. People in Virginia's northwest region had different ideals than those from the traditional deep south. Then Virginia divided in 1863 with the northwest region joining the union. (continues talking)
+Tanner: Once our home state of Virginia joined confederacy in 1861, it created a tremendous amount of tension within the state. People in Virginia's northwest region had different ideals than those from the traditional deep south. Then Virginia divided in 1863 with the northwest region joining the union. [continues talking]
 [Elena and Stefan exchange looks.]
 
-Bonnie (text to Elena): HAWT-E. STARING @ U.
+Bonnie [text to Elena]: HAWT-E. STARING at U.
 [Elena looks at Stefan. She then looks back to the front.]
 
 Cemetery
 [Elena walks into the cemetery and writes in her diary.]
 
-Elena: Dear diary, I made it through the day. I must have said, "I'm fine, thanks," at least thirty-seven times. And I didn't mean it once. But no one noticed. When someone asks, "How are you?" They really don't want an answer.
+Elena: Dear diary, I made it through the day. I must have said, I'm fine, thanks, at least thirty-seven times. And I didn't mean it once. But no one noticed. When someone asks, How are you? They really don't want an answer.
 [A crow appears on her parents grave stone.]
 
 Elena: Okay. Hi, bird. That's not creepy or anything. Shoo!
@@ -181,7 +181,7 @@ Elena: Ahh!
 
 Stefan: You okay?
 Elena: Were you following me?
-Stefan: No, I-a, uh, I-a just — I saw you fall.
+Stefan: No, I-a, uh, I-a just ,  I saw you fall.
 Elena: Uh-huh, and you just happened to be hanging out in a cemetery.
 Stefan: I'm visiting. I have family here.
 Elena: Oh. Wow. Tactless. I'm sorry. It's the fog, It's making me foggy. And then back there, there was this - this bird, and it was all very Hitchcock for a second. That is the bird movie, right, the Hitchcock?...I'm Elena.
@@ -291,7 +291,7 @@ Elena: I'm sorry. Any siblings?
 Stefan: None that I talk to. I live with my uncle.
 Caroline: So, Stefan, if you're new, then you don't know about the party tomorrow.
 Bonnie: It's a back to school thing at the falls.
-Stefan (to Elena): Are you going?
+Stefan [to Elena]: Are you going?
 Bonnie: Of course she is.
 Salvatore Boarding House
 Zach: You promised.
@@ -427,7 +427,7 @@ Matt: That's okay, Elena. You do what you have to do. I just want to let you kno
 Elena: Matt...
 Caroline: Hey! There you are. Have you been down to the falls yet? Because they are really cool at night. And I can show you...if you want.
 Stefan: I think you've had too much to drink.
-Caroline: Well, of course I have. So—
+Caroline: Well, of course I have. So, 
 Stefan: Caroline. You and me, it's not gonna happen. Sorry.
 [Stefan approaches Elena.]
 
@@ -544,11 +544,11 @@ Vicki: Matt--
 Matt: Hey, don't try to talk, okay? You're fine.
 Vicki: Vampire.
 
-Gilbert Residence/Salvatore Boarding House
+Gilbert Residence and Salvatore Boarding House
 Elena: Dear diary, I couldn't have been more wrong. I thought that I could smile, nod my way through it; pretend like it would all be ok.
 Stefan: I had a plan. I wanted to change who I was; create a life as someone new, someone without the past.
 Elena: Without the pain.
-Elena/Stefan: Someone alive.
+Elena and Stefan: Someone alive.
 Elena: But it's not that easy. The bad things stay with you.
 Stefan: They follow you.
 Mystic Grill
@@ -593,12 +593,12 @@ Woman: Open! No! Please!
 
 [Title credits]
 
-Gilbert Residence/Salvatore Boarding House
+Gilbert Residence and Salvatore Boarding House
 Elena: Dear diary, this morning is...different. There is change. I can sense it, feel it.
 Stefan: I'm awake. For the first time in a long time, I feel completely and undeniably wide awake.
 Elena: For once, I don't regret the day before it begins.
 Stefan: I welcome the day...
-Stefan/Elena: Because I know...
+Stefan and Elena: Because I know...
 Stefan: I will see her again.
 Elena: I will see him again. For the first time in a long time, I feel good.
 [Elena goes out of her room.]
@@ -638,7 +638,7 @@ Tanner: Originally discovered nearly 5 centuries ago, it hasn't been over Mystic
 [In the hallway.]
 
 Stefan: I brought it. [Hands Elena a book.] Told you.
-Elena: "Wuthering Heights" by Ellis Bell. You know, I can't believe she didn't use her real name.
+Elena: Wuthering Heights by Ellis Bell. You know, I can't believe she didn't use her real name.
 Stefan: All the Bronte sisters used pseudonyms. It was the time. Female writers weren't very accepted then.
 Elena: Where did you get it?
 Stefan: Uh, it was passed down. Through the family.
@@ -679,7 +679,7 @@ Matt: I know, and now there's talk of some missing campers.
 Elena: Did she say what kind of animal it was that attacked her?
 Matt: She said it was a vampire.
 Elena: What?
-Matt: Yeah, she wakes up last night and mutters "vampire" and then passes out.
+Matt: Yeah, she wakes up last night and mutters vampire and then passes out.
 Elena: OK, that is weird.
 Matt: I think she was drunk. So what's up with you and the new guy?
 Elena: Matt, the last thing that I want to do is hurt you.
@@ -805,7 +805,7 @@ Damon: Great gal. Whoo. She's got spunk. You, on the other hand, look pooped. Di
 Stefan: Someone had to clean up your mess.
 Damon: Well, were you successful? Did the powers of persuasion work? Remember, if you don't feed properly, none of those little tricks work right.
 Stefan: How long was Elena here?
-Damon: Were you worried, Stefan? Scared we may be doomed to repeat the past? Isn't that why you play your little game, "I'm a high school human"?
+Damon: Were you worried, Stefan? Scared we may be doomed to repeat the past? Isn't that why you play your little game, I'm a high school human?
 Stefan: I'm not playing any game.
 Damon: Of course you are. We both know the closest you'll ever get to humanity is when you rip it open and feed on it.
 Stefan: What kind of game are you playing, Damon?
@@ -864,7 +864,7 @@ Vicki: Fighting with Robert about my schedule. You'd think getting ripped up by 
 Jeremy: Are you feeling ok?
 Vicki: I hurt.
 Jeremy: Well, the doctor gave you something, right?
-Vicki: The kid stuff. Nothing with an "o" in it. I think they were on to me.
+Vicki: The kid stuff. Nothing with an o in it. I think they were on to me.
 [They laugh. Jeremy gives her pills.]
 
 Jeremy: Here. Knock yourself out, literally.
@@ -966,7 +966,7 @@ Stefan: Excuse me.
 
 Vicki: No! No!
 Damon: Shh, I'm not gonna drop you.
-Damon (to Stefan): Not bad. Have you been eating bunnies?
+Damon [to Stefan]: Not bad. Have you been eating bunnies?
 Stefan: Let her go.
 Damon: Shh. really? Ok. Damon pulls Vicki to the edge of the roof.]
 Vicki: No!
@@ -975,8 +975,8 @@ Stefan: No, no, no!
 
 Damon: Ugh! Relax.
 Vicki: What's happening?
-Damon (to Stefan): I don't need her to be dead, but...you might.
-Damon (to Vicki): What attacked you the other night?
+Damon [to Stefan]: I don't need her to be dead, but...you might.
+Damon [to Vicki]: What attacked you the other night?
 Vicki: I don't know. An animal.
 Damon: Are you sure about that? Think. Think about it. Think really hard. What attacked you?
 Vicki: A vampire.
@@ -999,7 +999,7 @@ Damon: If you couldn't fix it before, I don't know what you can do now.
 Vicki: Aah!
 Damon: Ugh! Your choice of lifestyle has made you weak. A couple of vampire parlor tricks is nothing compared to the power that you could have, that you now need. But you can change that. Human blood gives you that.
 Vicki: No!
-Damon: You have two choices. You can feed and make her forget. Or you can let her run, screaming "vampire" through the town square.
+Damon: You have two choices. You can feed and make her forget. Or you can let her run, screaming vampire through the town square.
 Stefan: That's what this is about? You want to expose me?
 Damon: No! I want you to remember who you are!
 Stefan: Why? So what, so I'll feed? So I'll kill? So I'll remember what it's like to be brothers again? You know what, let her go. Let her tell everyone that vampires have returned to Mystic Falls. Let them chain me up, and let them drive a stake through my heart, because at least I'll be free of you.
@@ -1029,7 +1029,7 @@ Bonnie: Yeah.
 Stefan: Excuse me. Hi.
 Bonnie: Hi.
 Stefan: Um, have you guys seen Elena?
-Bonnie: I think she went home. I'm gonna give you Elena's cell number and her email. She is big on texting, and you can tell her..."I said so".
+Bonnie: I think she went home. I'm gonna give you Elena's cell number and her email. She is big on texting, and you can tell her...I said so.
 Stefan: Thank you.
 [Bonnie touches Stefan's hand and has a vision.]
 
@@ -1046,7 +1046,7 @@ Jenna: I've become my worst nightmare. The authority figure who has to violate a
 Elena: What brought this on?
 Jenna: Your ass-hat of a history teacher shamed me good yesterday.
 Elena: You got tannered. Been there.
-Jenna: "Discover the impossible, Ms. Sommers." Got it. Thanks. Like I didn't know I was screwing up.
+Jenna: Discover the impossible, Ms. Sommers. Got it. Thanks. Like I didn't know I was screwing up.
 Elena: You're not screwing up, Aunt Jenna.
 Jenna: Yes, I am. You know why? Because I'm not her. She made everything look so easy. You know, high school, marriage, having you. I can't do it. I'm gonna say or do the wrong thing, and he's gonna get worse, and it's gonna be my fault. It's impossible.
 Elena: This is just the fear talking. You're a little scared, that's all. We all are. I have to go do something. But are you going to be ok?
@@ -1074,8 +1074,8 @@ Elena: Sorry for barging in. Especially after earlier.
 Stefan: No, no. I'm glad you're here. The way we left things...I didn't like it.
 Elena: See, the thing is, I got home tonight planning on doing what I always do, write in my diary, like I have been since my mom gave me one when I was 10. It's where I get everything out, everything I'm feeling. It all goes in this little book that I hide on the second shelf behind this really hideous ceramic mermaid. But then I realized that I'd just be writing things that I should probably be telling you.
 Stefan: What would you write?
-Elena: I would write..."Dear diary, today I convinced myself it was ok to give up. Don't take risks. Stick with the status quo. No drama, now is just not the time. But my reasons aren't reasons, they're excuses. All I'm doing is hiding from the truth, and the truth is that..." I'm scared, Stefan. I'm scared that if I let myself be happy for even one moment that...the world's just going to come crashing down, and I...don't know if I can survive that.
-Stefan: Do you want to know what I would write? "I met a girl. We talked. It was epic. But then the sun came up and reality set in. Well, this is reality. Right here."
+Elena: I would write...Dear diary, today I convinced myself it was ok to give up. Don't take risks. Stick with the status quo. No drama, now is just not the time. But my reasons aren't reasons, they're excuses. All I'm doing is hiding from the truth, and the truth is that... I'm scared, Stefan. I'm scared that if I let myself be happy for even one moment that...the world's just going to come crashing down, and I...don't know if I can survive that.
+Stefan: Do you want to know what I would write? I met a girl. We talked. It was epic. But then the sun came up and reality set in. Well, this is reality. Right here.
 [They kiss.]
 
 Forbes Residence
@@ -1164,7 +1164,7 @@ Stefan: Says the girl who spends her alone time writing in a cemetery.
 Elena: Hey, come on. There's more to me than just gloomy graveyard girl. There's a whole other Elena that you have yet to meet. She was into everything, very busy.
 Stefan: Well, I look forward to meeting her. And when will that be?
 Elena: Soon. She's working on it.
-[In history class. Bonnie is writing numbers on her book. "8", "14", "22".]
+[In history class. Bonnie is writing numbers on her book. 8, 14, 22.]
 
 Tanner: World war II ended in...Anyone got anything? Miss Juan? 1945.
 Elena: Psst. FYI...Our team sucks. They could use you.
@@ -1281,7 +1281,7 @@ Damon: I've come to apologize. I've been doing some thinking, some soul searchin
 [Damon tries to keep a straight face but can't do it.]
 
 Stefan: You know, it doesn't have to be this way, Damon.
-Damon: Of course it doesn't. I saw Elena today, BTW. That means "by the way." She was at cheerleading practice. She looked so perky in her little short shorts. Just...simmer down, I didn't even go near her. I've got my own cheerleader now. Ooh, that reminds me...I gotta run. I have a date. Sweaty palms. Wish me luck.
+Damon: Of course it doesn't. I saw Elena today, BTW. That means by the way. She was at cheerleading practice. She looked so perky in her little short shorts. Just...simmer down, I didn't even go near her. I've got my own cheerleader now. Ooh, that reminds me...I gotta run. I have a date. Sweaty palms. Wish me luck.
 Gilbert Residence
 [Elena and Bonnie are preparing dinner in the kitchen.]
 
@@ -1416,7 +1416,7 @@ Damon: Hmm. Hey, you know, um, Elena and Bonnie are finishing up the dishes. Why
 Caroline: Does it look like I do dishes?
 Damon: For me?
 Caroline: Hmm...I don't think so.
-Damon: (Damon compels her.) Go see if Elena needs help in the kitchen.
+Damon: [Damon compels her.] Go see if Elena needs help in the kitchen.
 Caroline: You know what? I'm gonna go see if Elena needs some help in the kitchen.
 Damon: Great.
 [Caroline leaves.]
@@ -1462,7 +1462,7 @@ Stefan: Right. We're a work in progress. We'll figure it out.
 Caroline: And you're not in uniform because...
 [It's night now. People are tailgating and cheering for the team.]
 
-Tanner: Wait, wait, wait, Wait, wait, wait, wait, wait, wait, wait. Wait. Let's be honest here. In the past, we used to let other teams come into our town and roll right over us! (Boos from the crowd.) But that is about to change. (Cheering.) We've got some great new talent tonight starting on the offense, and I'm gonna tell you right now, it has been a long time since I have seen a kid like this with hands like these. Let's give it up for Stefan Salvatore!
+Tanner: Wait, wait, wait, Wait, wait, wait, wait, wait, wait, wait. Wait. Let's be honest here. In the past, we used to let other teams come into our town and roll right over us! [Boos from the crowd.] But that is about to change. [Cheering.] We've got some great new talent tonight starting on the offense, and I'm gonna tell you right now, it has been a long time since I have seen a kid like this with hands like these. Let's give it up for Stefan Salvatore!
 Tyler: This blows. He can't start the guy. He just got here.
 Tanner: That have been waiting for us to put a check in the win column, I have only one thing to say to you...Your Timberwolves are hungry.
 [Tyler walks up to Vicki.]
@@ -1546,10 +1546,10 @@ Matt: Uh, what you did back there...you had Jeremy's back.
 Stefan: Ah, he's a messed-up kid. Somebody's gotta look out for him.
 Matt: I know. This week at practice I was a dick.
 Stefan: Had your reasons.
-Matt: No excuse. (Matt holds out his hand, Stefan shakes it.) Good luck tonight. We're lucky to have you.
+Matt: No excuse. [Matt holds out his hand, Stefan shakes it.] Good luck tonight. We're lucky to have you.
 [Damon is in the corner. He claps for Stefan.]
 
-Damon: Isn't that nice? Stefan joins a team, makes a friend. It's all so, "rah, rah, go team, yeah!"
+Damon: Isn't that nice? Stefan joins a team, makes a friend. It's all so, rah, rah, go team, yeah!
 Stefan: Not tonight. I'm done with you.
 Damon: Nice trick with Elena. Let me guess...vervain in the necklace? I admit, I was a bit surprised. It's been a while since anyone could resist my compulsion. Where'd you get it?
 Stefan: Does it matter?
@@ -1579,7 +1579,7 @@ Matt: This was over the line. Even for you.
 [Matt discovers Tanner's body.]
 
 Matt: Somebody help!
-[The police arrived. Bonnie looks at the scene. She looks at the license plate "BLDG 8", the immatriculation's car is "FHT 14" and on the ground, the number 22. Bonnie is afraid.]
+[The police arrived. Bonnie looks at the scene. She looks at the license plate BLDG 8, the immatriculation's car is FHT 14 and on the ground, the number 22. Bonnie is afraid.]
 
 [The football field. Jeremy is sitting by the bleachers. Vicki comes up to him.]
 
@@ -1605,7 +1605,7 @@ Gilbert Residence
 Elena: Hello? Jeremy? Hello?
 [Elena tries to turn on the light, but the power is out.]
 
-Logan (on TV): This is Logan Fell coming to you live from the streets of Mystic Falls with breaking news of another deadly animal attack. The wild animal terrorizing the citizens of Mystic Falls has claimed another victim, local high school student Elena Gilbert. Police are certain that forensic evidence will confirm that this is the same animal responsible for recent attacks.
+Logan [on TV]: This is Logan Fell coming to you live from the streets of Mystic Falls with breaking news of another deadly animal attack. The wild animal terrorizing the citizens of Mystic Falls has claimed another victim, local high school student Elena Gilbert. Police are certain that forensic evidence will confirm that this is the same animal responsible for recent attacks.
 Damon: You know what's coming next.
 [Elena runs. She opens the front door, sees Damon, and slams it shut. She slowly walks towards the stairs, but Damon grabs her and bites her neck.]
 
@@ -1618,7 +1618,7 @@ Damon: Bad dream? Do you know how easy it was to get into your head just now? Yo
 
 Damon: All right, I deserved that. But I just wanted to let you know, they caught the culprit. The animal responsible for killing coach Tanner and all those people.
 Stefan: What are you talking about?
-Damon: It was a mountain lion. Really big one. It attacked a hunter this morning. It's all over the news. "Deadly beast captured. All's well in Mystic Falls."
+Damon: It was a mountain lion. Really big one. It attacked a hunter this morning. It's all over the news. Deadly beast captured. All's well in Mystic Falls.
 Stefan: Why would you cover your tracks?
 Damon: I've decided to stay a while. And I'm just having way too much fun here with you and Elena.
 Stefan: Can't touch her now.
@@ -1630,15 +1630,15 @@ Damon: This is John Varvatos, dude. Dick move.
 
 [Stefan is writing in his diary.]
 
-Sheriff Forbes (on TV): I can confirm that a 12-foot puma mountain lion attacked a hunter and was subsequently shot and killed. The hunter is in stable condition.
+Sheriff Forbes [on TV]: I can confirm that a 12-foot puma mountain lion attacked a hunter and was subsequently shot and killed. The hunter is in stable condition.
 Stefan: The real animal is still out there, waiting for me, challenging me to fight back, to stop him. But how do I stop a monster without becoming one myself?
 Gilbert Residence
-Logan (on TV): To repeat, the animal terrorizing Mystic Falls has been caught.
+Logan [on TV]: To repeat, the animal terrorizing Mystic Falls has been caught.
 Jenna: Scum ball. Scum bucket.
 Elena: Who are you talking to?
 Jenna: Him.
 Elena: The news guy?
-Jenna: Also known as Logan "Scum" Fell. Did your mom ever tell you why I moved away from Mystic Falls?
+Jenna: Also known as Logan Scum Fell. Did your mom ever tell you why I moved away from Mystic Falls?
 Elena: Oh, no way. You and him? He's cute.
 Jenna: He is not cute. There's nothing cute about him. What are you doing with that?
 Elena: I went yesterday and got it from the safe deposit box. Mom had told Mrs. Lockwood she would loan it to the founder's council for their heritage display.
@@ -1670,7 +1670,7 @@ Elena: How about tomorrow night? Will you be my date to the Founder's Party?
 Stefan: They still do that?
 Elena: Have you been before?
 Stefan: No, the Salvatores don't get invited anymore.
-Elena: Well, this year, there's this heritage project that meant a lot to my mom. She was really involved in the founder's council, and it was her favorite party. I know it sounds really boring, but—
+Elena: Well, this year, there's this heritage project that meant a lot to my mom. She was really involved in the founder's council, and it was her favorite party. I know it sounds really boring, but, 
 Stefan: I would be honored to accompany you, Miss Gilbert.
 Elena: The pleasure is all mine, Mr. Salvatore.
 Forbes Residence
@@ -1678,7 +1678,7 @@ Forbes Residence
 
 Damon: No yellow. Jaundice. Go for the blue.
 Caroline: I don't like the blue.
-Damon: Well, I do. And if I'm gonna be your date—
+Damon: Well, I do. And if I'm gonna be your date, 
 Caroline: You cannot be my date. My mother is going to be there, and she is a very proud gun owner.
 Damon: I went through a lot of trouble to make sure this party wasn't cancelled. It's very important I be there. Please take me.
 Caroline: You should come to the founder's party with me.
@@ -1827,7 +1827,7 @@ Jeremy: What watch?
 Elena: The one you stole from mom's box. Look, Mrs. Lockwood just called me, freaking out. It was on the list, Jeremy. And she can't find it, and she thinks she's the one who lost it.
 Jeremy: Maybe she did. Maybe Tyler took it.
 Elena: Don't even play that card. Jeremy, you took it. If I go online, am I going to find it on eBay? Is that how you pay for your pot?
-Jeremy: Screw you. (Jeremy gets up and gets the pocket watch.) I would never sell this, ok?
+Jeremy: Screw you. [Jeremy gets up and gets the pocket watch.] I would never sell this, ok?
 Elena: Then why did you take it?
 Jeremy: Because it's supposed to be mine. Dad said it goes to the firstborn son. His father gave it to him, and now what?
 [Jeremy hands it to Elena.]
@@ -1908,7 +1908,7 @@ Logan: You haven't changed a bit.
 Jenna: Oh, yes, I have. I'm meaner now.
 [Elena is reading the first registry.]
 
-Elena: "The founding families in Mystic Falls welcomes you to the inaugural founder's council celebration." Wow, look, it's the original guest registry. Look at all these familiar names—Sheriff William Forbes, Mayor Benjamin Lockwood. Is that Damon Salvatore? And, Stefan Salvatore?
+Elena: The founding families in Mystic Falls welcomes you to the inaugural founder's council celebration. Wow, look, it's the original guest registry. Look at all these familiar names, Sheriff William Forbes, Mayor Benjamin Lockwood. Is that Damon Salvatore? And, Stefan Salvatore?
 Damon: The original Salvatore brothers. Our ancestors. Tragic story, actually.
 Stefan: We don't need to bore them with stories of the past.
 Elena: It's not boring, Stefan. I'd love to hear more about your family.
@@ -1933,7 +1933,7 @@ Stefan: Would you like one?
 
 Stefan: Thank you.
 Caroline: Okay, just tell me if you see my mom.
-Damon: The Salvatore name was practically royalty in this town. Until the war. There was a battle here—
+Damon: The Salvatore name was practically royalty in this town. Until the war. There was a battle here, 
 Elena: The Battle of Willow Creek.
 Damon: Right.
 Elena: I know, we talked about it in class. Confederate soldiers fired on a church with civilians inside.
@@ -2009,7 +2009,7 @@ Elena: Well, then I guess it's working.
 [Bonnie and Elena are inside, eating ice cream.]
 
 Bonnie: This is my fault. I planted doubt. I'm a doubt planter.
-Elena: It's not your fault. I just—I feel terrible because I said that I wouldn't get in the middle of it, and then that's exactly what I did. I got all snotty.
+Elena: It's not your fault. I just, I feel terrible because I said that I wouldn't get in the middle of it, and then that's exactly what I did. I got all snotty.
 Mrs Lockwood: Elena, honey, there you are. I notice the watch still isn't in the collection.
 Elena: Oh, um, I'm sorry, Mrs. Lockwood. I, um, I couldn't find it. I guess it's still packed up in my parents' stuff somewhere.
 Mrs Lockwood: I see. Well, please let me know if you do find it.
@@ -2018,7 +2018,7 @@ Elena: OK.
 
 Caroline: Where have you been?
 Damon: Ah. Looking for you.
-Caroline: Your brother barely danced with me for five minutes—
+Caroline: Your brother barely danced with me for five minutes, 
 Damon: Okay, just a minute. Stand right...there.
 [Damon starts searching through the collection.]
 
@@ -2062,7 +2062,7 @@ Caroline: Really? Well, my radar must be off, 'cause I was getting all sorts of 
 [Elena looks at Caroline's neck and sees something.]
 
 Elena: What is that?
-Caroline: Hmm? (Elena tries to lift her scarf up.) Don't!
+Caroline: Hmm? [Elena tries to lift her scarf up.] Don't!
 [Elena lifts her scarf up and sees a bad bite mark.]
 
 Elena: Oh god, Caroline, what happened?
@@ -2104,7 +2104,7 @@ Caroline: Don't! She took it off and I got flustered, okay?! I didn't know what 
 [Damon goes behind Caroline and wraps his arms around her waist.]
 
 Damon: You make me crazy, you know that? It's okay. I forgive you.
-Caroline: I swear I didn't say—
+Caroline: I swear I didn't say, 
 Damon: Shh, shh, shh. It's okay. Unfortunately...I am so over you now.
 [He bites her. But they both fall to the ground.]
 
@@ -2116,7 +2116,7 @@ Elena: Caroline? There you are. I've been looking everywhere for you. Are you ok
 Caroline: Yeah. I'm fine.
 Elena: Caroline, what happened?
 Caroline: I'm fine.
-Elena: No. You're shaking. Caroline—What—
+Elena: No. You're shaking. Caroline, What, 
 Caroline: I'm fine!
 Elena: Caroline, come here, come here.
 [Caroline starts to cry and Elena hugs her.]
@@ -2124,7 +2124,7 @@ Elena: Caroline, come here, come here.
 Salvatore Boarding House
 [Zach and Stefan lock Damon in the cellar.]
 
-Stefan: I did what I had to do...To protect Elena, to protect everyone. Yes, Damon, the headline reads "Deadly beast captured. All is well in Mystic Falls."
+Stefan: I did what I had to do...To protect Elena, to protect everyone. Yes, Damon, the headline reads Deadly beast captured. All is well in Mystic Falls.
 Lockwood Residence
 Mr Lockwood: Thank you for staying so late.
 Sheriff Forbes: Did you get the Gilbert watch?
@@ -2170,7 +2170,7 @@ Elena: And you have no objection?
 Jenna: He could be craftier about it, at least make an effort to sneak her in and out. Oh, and just so you know, I won't be home for dinner.
 Elena: Oh, so you're actually going to do it. You're gonna go out with Logan.
 Jenna: I'm going to show up and torture him, yes. And have you heard from Stefan?
-Elena: Not since he left that very vague message three days ago. "Hi, um, Elena, I, um, have something I have to do. I'll, uh, explain in a few days."
+Elena: Not since he left that very vague message three days ago. Hi, um, Elena, I, um, have something I have to do. I'll, uh, explain in a few days.
 Jenna: Haven't you called him?
 Elena: Nope. Not going to either.
 Jenna: And you're ok with everything?
@@ -2325,7 +2325,7 @@ Elena: Stefan...
 Stefan: She was...the most beautiful girl that I had ever met. She had this perfect olive skin. And she had this laugh. It was ridiculous. I mean, her laugh made you laugh. And she was fun. She knew how to have a good time. But Katherine was also very impatient and entitled and selfish, and, um, impulsive. Enter Damon. He claims that he was with her first. I don't know. I do know that I did some things that...I'm not proud of. And my biggest regret...is not being able to make it right before she died. I miss her, but...I'm no longer crippled by her loss.
 Vicki: It was very nice what you did for Stefan. Very romantic.
 Jeremy: Well, I was feeling romantic.
-Vicki: Look what I found. "Elena Gilbert, take one tablet every 4 to 6 hours, as needed for pain."
+Vicki: Look what I found. Elena Gilbert, take one tablet every 4 to 6 hours, as needed for pain.
 Jeremy: Those are left over from the car accident.
 Vicki: So she won't miss them.
 [Vicki pours the pills out and grabs the pocketwatch to use to crush the pills up. Jeremy stops her.]
@@ -2336,7 +2336,7 @@ Jeremy: Well, then let's choose not to. I mean, we don't have to be high all the
 Vicki: I really hope you're not one of those guys who, now that we're together, tries to change everything about me.
 Jeremy: No.
 Vicki: Good.
-Stefan: I'm an avid reader, a huge Fitzgerald fan, "The Great Gatsby", his masterpiece. But I'm no snob. I love some good Grisham. I think "Seinfeld" is the best American television show for the past 50 years, but "I Love Lucy" is all-time. "The loving cup" episode was the best, I think. Huge Scorsese fan. I can watch "Taxi Driver" over and over again.
+Stefan: I'm an avid reader, a huge Fitzgerald fan, The Great Gatsby, his masterpiece. But I'm no snob. I love some good Grisham. I think Seinfeld is the best American television show for the past 50 years, but I Love Lucy is all-time. The loving cup episode was the best, I think. Huge Scorsese fan. I can watch Taxi Driver over and over again.
 Elena: Here, let me.
 [Elena takes up the chopping of the garlic.]
 
@@ -2412,7 +2412,7 @@ Logan: All proceeds are going to the school's athletic department still healing 
 Jenna: Classy.
 Logan: Thank you.
 Jenna: But you're still going to video the girls in bikinis, right?
-Logan: Well, 53% of Americans watch the news with the sound off.
+Logan: Well, 53 percent of Americans watch the news with the sound off.
 Jenna: Thank you for dinner. I had a nice time.
 Logan: Do you remember the last time we were in the school parking lot?
 Jenna: Nope. Doesn't ring a bell.
@@ -2706,7 +2706,7 @@ Damon: You just don't wanna die, do you?
 [Elena is sleeping. Stefan is outside her house, guarding her family from Damon.]
 
 Mystic Grill
-Elena: You said you would explain everything. That's why I asked you to meet me here. When you Google "vampire" you get a world of fiction. What's the reality?
+Elena: You said you would explain everything. That's why I asked you to meet me here. When you Google vampire you get a world of fiction. What's the reality?
 Stefan: I can tell you whatever you wanna know.
 Elena: I know you eat garlic.
 Stefan: Yes.
@@ -2829,7 +2829,7 @@ Stefan: Your commitment to the confederacy is inspiring.
 Katherine: Well, this works out wonderfully for me.
 Damon: How's that, miss Katherine?
 Katherine: Now I'll have both of you here to keep me entertained. First and foremost, I'll need someone to escort me to the founder's ball.
-Damon/Stefan: With pleasure. I would be honored.
+Damon and Stefan: With pleasure. I would be honored.
 Katherine: The smart and kind Salvatore brothers both coming to my rescue. How will I ever choose?
 [She walks away.]
 
@@ -3158,7 +3158,7 @@ Damon: You just don't wanna die, do you?
 [Elena is sleeping. Stefan is outside her house, guarding her family from Damon.]
 
 Mystic Grill
-Elena: You said you would explain everything. That's why I asked you to meet me here. When you Google "vampire" you get a world of fiction. What's the reality?
+Elena: You said you would explain everything. That's why I asked you to meet me here. When you Google vampire you get a world of fiction. What's the reality?
 Stefan: I can tell you whatever you wanna know.
 Elena: I know you eat garlic.
 Stefan: Yes.
@@ -3281,7 +3281,7 @@ Stefan: Your commitment to the confederacy is inspiring.
 Katherine: Well, this works out wonderfully for me.
 Damon: How's that, miss Katherine?
 Katherine: Now I'll have both of you here to keep me entertained. First and foremost, I'll need someone to escort me to the founder's ball.
-Damon/Stefan: With pleasure. I would be honored.
+Damon and Stefan: With pleasure. I would be honored.
 Katherine: The smart and kind Salvatore brothers both coming to my rescue. How will I ever choose?
 [She walks away.]
 
@@ -3605,7 +3605,7 @@ Vicki: Can I have some more?
 Elena: Is Stefan here?
 Damon: Yep!
 Elena: Where is he?
-Damon: And good morning to you, little miss " I'm on a mission".
+Damon: And good morning to you, little miss  I'm on a mission.
 Elena: How can you be so arrogant and glib after everything that you've done?
 Damon: And how can you be so brave and stupid to call a vampire arrogant and glib?
 Elena: If you wanted me dead, I'd be dead.
@@ -3613,7 +3613,7 @@ Damon: Yes, you would.
 Elena: But I'm not.
 Damon: Yet.
 Elena: Where is Stefan?
-Damon: He's upstairs singing "The rain in Spain". Knock yourself out.
+Damon: He's upstairs singing The rain in Spain. Knock yourself out.
 [Damon leaves. Elena closes the door and walks down the hall.]
 
 Elena: Stefan? Stefan?
@@ -3643,7 +3643,7 @@ Mystic Grill
 Mr Lockwood: We never should have trusted that Logan...weasel with the watch.
 Mrs Lockwood: How many are we dealing with?
 Mr Lockwood: Well, the coroner thinks one. Something about the wound radius and the jaw pattern.
-Mrs Lockwood: Are we in danger? I mean, if it found the watch, then it knows we know, and could it come after us? A-and should I even be saying "it"? Or...or is it a he or a she?
+Mrs Lockwood: Are we in danger? I mean, if it found the watch, then it knows we know, and could it come after us? A-and should I even be saying it? Or...or is it a he or a she?
 Mr Lockwood: If it has any historical knowledge of the town, then it'll know where the watch came from, so yes, we could very much be in danger.
 Mrs Lockwood: So what do we do?
 Mr Lockwood: Just keep it quiet. We can't have the entire town aware of this. We need to find it before it finds us.
@@ -3690,9 +3690,9 @@ Vicki: Oh come on don't you start. I'm gonna see whoever I wanna see.
 Elena: Even though you could hurt him?
 Vicki: I would never hurt Jeremy.
 Elena: I know you think that but I can't take that risk. You're gonna have to let Jeremy go now.
-Vicki: Oh really? And how long have you been preparing the "you're not good enough" speech? I'm assuming it predates the whole vampire thing.
+Vicki: Oh really? And how long have you been preparing the you're not good enough speech? I'm assuming it predates the whole vampire thing.
 Elena: All I am saying is Jeremy is not getting involved in any of this. I mean it, Vicki.
-Vicki: Or what? (Vicki grabs Elena by the throat and pushes her against the wall.)
+Vicki: Or what? [Vicki grabs Elena by the throat and pushes her against the wall.]
 Vicki: Let's get one thing straight, you perky little bitch. You had my brother whipped for fifteen years. Fifteen years and then you dumped him. When I look at you that is all I see, just so you know. And I'm gonna see Jeremy whenever I wanna see Jeremy, because I have some fun new toys to play with, and I won't think twice about ripping your little head off. You got it?
 [Vicki let's her go. Elena is coughing.]
 
@@ -3778,9 +3778,9 @@ Jeremy: You gotta call me, Vic. I don't get it. What's going on with you? Just..
 Elena: Hey. So, um, do you wanna hang out tonight? We could go to the, uh, Halloween thing at school. Could be fun!
 Jeremy: Cool. Sure. Sounds uh...sounds fun. Can't wait.
 Elena: I know you're upset about Vicki. I heard she called Matt. But you can't be with her. She needs to get better. The best thing you can do for her is let her go.
-Jeremy: What does that even mean, "let her go"? Oh, okay, sure. Since we're such experts on letting people go, right?
+Jeremy: What does that even mean, let her go? Oh, okay, sure. Since we're such experts on letting people go, right?
 Elena: I know you may not see it, but trust me Jer. It's for the best.
-Jeremy: Look, for months after mom and dad died, I felt like crap, like "nothing really even mattered" crap. Now all of a sudden, I get these moments and things started to feel just a little bit better, and Vicki was in every single of 'em. So you may not see it, but trust me. Keeping me away from her is not for the best.
+Jeremy: Look, for months after mom and dad died, I felt like crap, like nothing really even mattered crap. Now all of a sudden, I get these moments and things started to feel just a little bit better, and Vicki was in every single of 'em. So you may not see it, but trust me. Keeping me away from her is not for the best.
 [Vicki and Jeremy exchange texts. They plan on meeting up at the school carnival.]
 
 Mystic Falls High
@@ -3797,7 +3797,7 @@ Mr Lockwood: How many martinis have you had?
 Mrs Lockwood: Oh. Don't start with me.
 Mr Lockwood: Can we go now? We're late for the Halloween party. Let's go.
 Mrs Lockwood: So go ahead. I'd like to finish my drink.
-Damon: Let me guess. Daisy Buchanan. I love a good "gatsby" look.
+Damon: Let me guess. Daisy Buchanan. I love a good gatsby look.
 Mrs Lockwood: I've met you before. Aren't you Caroline Forbes' boyfriend?
 Damon: Ah, she had a schoolgirl crush on me but...It was cute but I had to let her down easy.
 Mrs Lockwood: It's Damon, right?
@@ -4031,7 +4031,7 @@ Lexi: Happy Birthday.
 
 Lexi: Stop. I don't know, some freak shot at me with wooden bullets. I bail in under sixty. And why is a news reporter hunting vampires?
 Stefan: I don't know who knows about us. That guy did. There could be others. Do me a favor, while you're here, please be careful.
-Lexi: Why stay? I'm headed to New York for the weekend. Bon Jovi in the Garden. "Wanted dead or alive", it's our theme song. It'll be a blast.
+Lexi: Why stay? I'm headed to New York for the weekend. Bon Jovi in the Garden. Wanted dead or alive, it's our theme song. It'll be a blast.
 Stefan: Do you think he would actually remember us? That was a pretty crazy weekend huh?
 Lexi: We can make him remember us. Come on! Let's go. I mean, what's keeping you here?
 Stefan: I told you, her name is Elena.
@@ -4131,7 +4131,7 @@ Jenna: You're wallowing.
 Elena: So are you.
 Jenna: My wallow is legitimate. I was dumped.
 Elena: Yeah. Well Logan's a jerk.
-Jenna: You didn't get a brush-off e-mail say: "I'm leaving town. See ya."
+Jenna: You didn't get a brush-off e-mail say: I'm leaving town. See ya.
 Jeremy: Wanna keep it down over there?
 Jenna: Why? What are you doing?
 Jeremy: Homework.
@@ -4248,7 +4248,7 @@ Lexi: Who cares? What can he possibly of all those people in a public place?
 Stefan: He knows how to keep a low profile, believe me.
 Lexi: Okay so he'll behave. Come on. One day a year I get you, one day that you're not brooding and existing in your own head.
 Stefan: It's my birthday, yeah?
-Lexi: It's my day. And that guy that jump naked in the Trevi fountain and got drunk on the torch of the statue of Liberty, that guy can take a break from all of his worrying for one night and go to a stupid party. So quit your whining [hits his butt} and go get ready.
+Lexi: It's my day. And that guy that jump naked in the Trevi fountain and got drunk on the torch of the statue of Liberty, that guy can take a break from all of his worrying for one night and go to a stupid party. So quit your whining [hits his butt] and go get ready.
 Stefan: [claps hands together] Fine.
 [Elena drives up to the Salvatore Boarding House. She knocks on the door.]
 
@@ -4293,7 +4293,7 @@ Damon: Then I'm not having a good time.
 
 Damon: Where's my brother?
 Lexi: He said he'd meet me here.
-Damon: Buy you a— [Lexi walks away from him.]
+Damon: Buy you a,  [Lexi walks away from him.]
 Gilbert Residence
 [Elena opens the door to find Stefan on the porch.]
 
@@ -4316,7 +4316,7 @@ Elena: Are you going to Caroline's party?
 Stefan: Lexi's dragging me and...it's my birthday.
 Elena: Really? Wow-um, happy birthday then.
 Stefan: Thank you.
-Elena: Actually I—I think I'm gonna stay in tonight.
+Elena: Actually I, I think I'm gonna stay in tonight.
 Stefan: Well have a...have a good night.
 Mystic Grill
 [People having fun. Caroline walks up to Bonnie.]
@@ -4401,7 +4401,7 @@ Girl: [whimpers] Help me.
 Lexi: Two shots of tequila. [sees Elena] Make that three.
 Barman: I need to see some ID.
 Lexi: No you don't. [uses compulsion]
-Barman: That'll be—
+Barman: That'll be, 
 Lexi: Free!
 Barman: On the house.
 Lexi: Thanks!
@@ -4607,9 +4607,9 @@ Caroline: Hey.
 [In history class, Elena sits down in class near Bonnie as Alaric, the new teacher, prepares for his class.]
 
 Alaric: Good Morning everyone. Alrighty.
-[Alaric writes his name on the chalkboard. Elena mouths "Are you okay?" to Bonnie. Bonnie shrugs.]
+[Alaric writes his name on the chalkboard. Elena mouths Are you okay? to Bonnie. Bonnie shrugs.]
 
-Alaric: Alaric Saltzman. It's a mouthful, I know. Doesn't exactly roll off the tongue. Saltzman is of German origins. My family emigrated here in 1755 to Texas. I, however, was born and raised in Boston. Now the name Alaric belongs to a very dead great-grandfather I will never be able to thank enough. You'll probably want to pronounce "Alaric" but it's "Alaric," okay? So, you can call me Rick. I'm your new history teacher.
+Alaric: Alaric Saltzman. It's a mouthful, I know. Doesn't exactly roll off the tongue. Saltzman is of German origins. My family emigrated here in 1755 to Texas. I, however, was born and raised in Boston. Now the name Alaric belongs to a very dead great-grandfather I will never be able to thank enough. You'll probably want to pronounce Alaric but it's Alaric, okay? So, you can call me Rick. I'm your new history teacher.
 Salvatore Boarding House
 [Damon enters Stefan's room and wakes him up with a coffee for him.]
 
@@ -4620,10 +4620,10 @@ Stefan: [gets out of bed and starts to get ready] Step aside, please.
 Damon: I got the town off our back. It was for the greater good, but I'm sorry. And, to prove it, I'm not gonna feed on a human. [beat] For at least a week. I'll adopt a Stefan diet! Only nothing with feathers.
 Stefan: [mocks Damon] 'Cause I realize that killing your closest and oldest friend is beyond evil, and yet somehow, it's worthy of humor.
 Damon: Are you mimicking me?
-Stefan: [continues to mock him] Yes, Stefan. Now that the secret society of vampires haters is off our back, I can go back to my routine of "How can I destroy Stefan's life this week?"
+Stefan: [continues to mock him] Yes, Stefan. Now that the secret society of vampires haters is off our back, I can go back to my routine of How can I destroy Stefan's life this week?
 Damon: [mocks Stefan back] And I can go back to sulking and Elena-longing and forehead brooding. [laughs] This is fun! I like this.
 Stefan: [still mocking Damon] And I will finally reveal the ulterior motive behind my evil and diabolical return to Mystic Falls.
-Damon: Yeah. I'm done. "That's just like you, Damon. Always have to have the last word."
+Damon: Yeah. I'm done. That's just like you, Damon. Always have to have the last word.
 Mystic Falls High School
 [Bonnie is explaining to Elena about her dreams.]
 
@@ -4643,7 +4643,7 @@ Bonnie: I can't call her. She's gonna tell me to embrace it. I don't want to emb
 Jeremy: Hey Mr. Saltzman, I'm Jeremy Gilbert. You wanted to see me?
 Alaric: [finishes chewing and sets down his sandwich] You know that your old teacher had a jackass file? No joke. [holds up the file] It's typed on a label. It has all the troublemakers in it. But really it's just an opus-- to you. [Jeremy looks at him in alarm] Don't worry about it. [throws the file in the trashcan] I'm not him. Clean slate. Now...let's talk about grades.
 Jeremy: I know it's been a rough couple of months, but I've been trying to turn them around.
-Alaric: Yeah, I saw that. But, the problem is, we're halfway through a semester and half a fail is still pretty bleak. [beat] This is the part where you say to me, "But what can I do to change that?" I'm glad you asked! How do you feel about extra credit?
+Alaric: Yeah, I saw that. But, the problem is, we're halfway through a semester and half a fail is still pretty bleak. [beat] This is the part where you say to me, But what can I do to change that? I'm glad you asked! How do you feel about extra credit?
 Jeremy: [shakes his head in agreement] Yeah, yeah, totally! Whatever.
 Alaric: [smiles] Good! Write me a paper, then.
 Jeremy: Okay. About what?
@@ -4655,18 +4655,18 @@ Alaric: [awkward] Oh, thanks. It was my father's. A little garish, but family, y
 Matt: Hey.
 Caroline: [stops him] Hey, what is that?
 Matt: What is what?
-Caroline: The "hey!" That's twice. That is two heys. That--do you have any other words in your vocabulary?
-Matt: [confused] What's wrong with "hey"?
-Caroline: It reeks of awkward subtext. You spent the night in my bed! There was cuddling! And then, you snuck out before dawn so you wouldn't have to face me, which I must say is a total Lame-Guy move that I did not appreciate. And now with the "hey"s? Seriously? I mean, I may have been some pathetic, insecure mess after the party, but do not mistake that for me being a pushover, because I do not let guys mess with my head anymore.
+Caroline: The hey! That's twice. That is two heys. That--do you have any other words in your vocabulary?
+Matt: [confused] What's wrong with hey?
+Caroline: It reeks of awkward subtext. You spent the night in my bed! There was cuddling! And then, you snuck out before dawn so you wouldn't have to face me, which I must say is a total Lame-Guy move that I did not appreciate. And now with the heys? Seriously? I mean, I may have been some pathetic, insecure mess after the party, but do not mistake that for me being a pushover, because I do not let guys mess with my head anymore.
 Matt: I heard your mom in the morning, and I didn't want to get you in trouble. So, I went out the window.
 Caroline: You went out the window? Another Lame-Guy move.
-Matt: Your mom's the sheriff! And as for the "hey"s, I'm pretty sure it's what I've said to you every day since the first grade. Trying to read something into it? Lame-Girl move.
+Matt: Your mom's the sheriff! And as for the heys, I'm pretty sure it's what I've said to you every day since the first grade. Trying to read something into it? Lame-Girl move.
 [Elsewhere outside the school, Elena sees Stefan sitting at a picnic table and walks over to join him.]
 
 Stefan: Hi.
 Elena: You weren't in class, I was worried.
 Stefan: Yeah, I got your messages, and I'm sorry I didn't get back to you, but what I wanna say shouldn't be said over the phone.
-Elena: A simple "I didn't kill my brother" text would have sufficed.
+Elena: A simple I didn't kill my brother text would have sufficed.
 Stefan: I didn't kill my brother, as much as he deserved it. He has you to thank you for that.
 Elena: So, what did you wanna tell me?
 Stefan: I won't be coming to school anymore. I'm gonna back off and keep my distance. It's the right thing to do.
@@ -4743,7 +4743,7 @@ Jenna: Have you picked a topic?
 Jeremy: No, not yet. It's gotta be local and non-internet research, so...
 Jenna: That's easy! You've got all your dad's stuff.
 Jeremy: What stuff?
-Jenna: "How the Gilberts came over on the Mayflower" stuff, all that family lineage from way back. Your dad really loved all that family history stuff. It's all boxed up in the closet.
+Jenna: How the Gilberts came over on the Mayflower stuff, all that family lineage from way back. Your dad really loved all that family history stuff. It's all boxed up in the closet.
 [Alaric approaches Jenna and Jeremy at their table.]
 
 Jeremy: Mr. Saltzman.
@@ -4827,20 +4827,20 @@ Damon: I'm onto you. Reverse psychology. It's a little transparent, but I admire
 Stefan: You prefer the brooding forehead?
 Damon: Seriously, what game do you think you're playing?
 Stefan: That's a funny question considering the fact that I have been asking you that for months. It's frustrating isn't it?
-Damon: Touché.
+Damon: Touche.
 Gilbert Residence
 [Caroline and Bonnie are talking in a room by themselves.]
 
-Caroline: Bonnie. Look, it's just not me. I don't believe in the...[gestures with her hands and makes a noise] "woo woo." But, if you do, then...okay. I'm in. That's all it takes for me to jump on board, because I consider you to be my best friend. And I'm saying this, knowing that Elena's in the kitchen listening to my every word. Look, I didn't know how real this was for you, but I'm listening now. Okay? [calls out into the other room] Elena, you can come in now. We're done. [Elena enters shyly, smiling] There is just way too much drama in this room. So, what do you guys wanna do? I have an idea. Why don't we have a séance?
+Caroline: Bonnie. Look, it's just not me. I don't believe in the...[gestures with her hands and makes a noise] woo woo. But, if you do, then...okay. I'm in. That's all it takes for me to jump on board, because I consider you to be my best friend. And I'm saying this, knowing that Elena's in the kitchen listening to my every word. Look, I didn't know how real this was for you, but I'm listening now. Okay? [calls out into the other room] Elena, you can come in now. We're done. [Elena enters shyly, smiling] There is just way too much drama in this room. So, what do you guys wanna do? I have an idea. Why don't we have a seance?
 Bonnie: [nervous] I don't think that's a good idea.
 Caroline: Come on. Let's summon some spirits. This Emily chick has some serious explaining to do.
-[They move to Elena's bedroom to do the séance.]
+[They move to Elena's bedroom to do the seance.]
 
 Bonnie: What are we doing?
 Elena: I don't know.
 Caroline: Be quiet and concentrate. Close your eyes. Now take a deep breath. Bonnie. Call to her.
 Bonnie: Emily, you there?
-Caroline: Really? "Emily, you there?" That's all you got? Come on.
+Caroline: Really? Emily, you there? That's all you got? Come on.
 Bonnie: Fine, geez. Emily. I call on you. I know you have a message. I'm here to listen.
 [The candles immediately flare stronger.]
 
@@ -4879,7 +4879,7 @@ Damon: I could rip your heart out and not think twice about it.
 Stefan: [smirks] I've heard that before.
 Damon: I have a bigger surprise, Stefan. [backs away slowly] I'm gonna bring her back.
 Gilbert Residence
-[The girls are standing in the aftermath of their séance, shocked.]
+[The girls are standing in the aftermath of their seance, shocked.]
 
 Elena: Okay, fun's over, Caroline. You made a point, and I get it. Now give it back.
 Caroline: What? Well, I didn't take it. What? What happened?
@@ -4897,19 +4897,19 @@ Elena: Bonnie! Bonnie! Bonnie! Open the door!
 [The door opens. Bonnie stands with her head in her hands.]
 
 Elena: What happened? Are you okay?
-Bonnie/Emily: I'm fine.
+Bonnie and Emily: I'm fine.
 Caroline: Unbelievable. You were totally faking it.
 Elena: Caroline, come on.
 Caroline: No! You scared the hell out of me.
 Elena: Bonnie?
-Bonnie/Emily: I'm fine. Everything's fine.
+Bonnie and Emily: I'm fine. Everything's fine.
 Mystic Falls High School
 [Stefan and Damon are still in the football field after Damon's revelation.]
 
 Stefan: How can you bring Katherine back?
 Damon: Before Katherine and the others were killed in the church, you remember what it was like in this town?
 Stefan: I remember the fear and the hysteria.
-Damon: Townspeople were killing vampires one by one. When they came for Katherine, I went straight to Emily, said,"I'll do anything. Name your price. Just protect her." She did.
+Damon: Townspeople were killing vampires one by one. When they came for Katherine, I went straight to Emily, said,I'll do anything. Name your price. Just protect her. She did.
 Stefan: How?
 Damon: She did some kind of spell with the crystal. And while the church was burning, and we thought Katherine was burning in it, she wasn't.
 Stefan: But I saw her go inside...
@@ -4923,21 +4923,21 @@ Damon: Because she knew they were gonna come for her, too, and she made me promi
 Stefan: I remember. You saved her children.
 Damon: It's the only thing keeping me from ripping that little Bonnie girl's throat out to get my crystal back. Oh well, a deal's a deal. So...you wanna go throw some more?
 Gilbert Residence
-[Elena and Caroline are running after Bonnie/Emily, who is rushing down the stairs.]
+[Elena and Caroline are running after Bonnie and Emily, who is rushing down the stairs.]
 
 Caroline: I can't believe I fell for it.
 Elena: [to Bonnie] Are you okay?
-Bonnie/Emily: I must go.
+Bonnie and Emily: I must go.
 Caroline: She's leaving. I'm leaving.
 Elena: You guys can't leave.
 Caroline: I can. I've had enough freaky fake witch stuff for one night.
-Bonnie/Emily: Thank you for having me. I'll take it from here.
+Bonnie and Emily: Thank you for having me. I'll take it from here.
 Elena: Where are you going?
-Bonnie/Emily: Back to where it all began.
+Bonnie and Emily: Back to where it all began.
 Elena: Bonnie! Bonnie! Oh My God! Emily!
-Bonnie/Emily: I won't let him have it. It must be destroyed.
+Bonnie and Emily: I won't let him have it. It must be destroyed.
 Elena: Wait!
-[Bonnie/Emily leaves. Elena chases her down the stairs. She tries to open the door, but Emily has spelled it shut.]
+[Bonnie and Emily leaves. Elena chases her down the stairs. She tries to open the door, but Emily has spelled it shut.]
 
 Caroline: What's happening?
 Elena: I don't know. The door, it's not...
@@ -4952,7 +4952,7 @@ Elena: It's Bonnie.
 Stefan: What happened?
 Elena: Emily is possessing her. She said something.
 Stefan: What did she say?
-Elena: She said "I won't let him have it. It must be destroyed." And then she just left.
+Elena: She said I won't let him have it. It must be destroyed. And then she just left.
 Stefan: Where do you think she went?
 Elena: I don't know. [thinks about it] Fell's church, by the old cemetery that's where she took Bonnie in her dreams. We have to help her, Stefan.
 Stefan: Just stay there. I'm gonna go find her.
@@ -4960,11 +4960,11 @@ Fell's Church
 [Damon finds Bonnie in the ruins of the old church, setting up a spell.]
 
 Damon: Hello Emily. You look different.
-Bonnie/Emily: I won't let you do it.
+Bonnie and Emily: I won't let you do it.
 Damon: We had a deal.
-Bonnie/Emily: Things are different now. I need to protect my family.
+Bonnie and Emily: Things are different now. I need to protect my family.
 Damon: I protected your family. You owe me.
-Bonnie/Emily: I know. I'm sorry.
+Bonnie and Emily: I know. I'm sorry.
 Damon: You're about to be a lot more than that.
 [Damon tries to attack her, but Emily uses her powers to throw Damon against a tree, and he's impaled on a branch through his stomach.]
 
@@ -4992,18 +4992,18 @@ Fell's Church
 [Stefan and Elena arrive at the church ruins. Stefan pulls Damon off of the tree branch.]
 
 Damon: It hurts. This is why I feed on people.
-Bonnie/Emily: Stefan.
+Bonnie and Emily: Stefan.
 Stefan: Hello, Emily.
-Bonnie/Emily: These people don't deserve this. They should never have to know such evil.
+Bonnie and Emily: These people don't deserve this. They should never have to know such evil.
 Stefan: What do you mean evil?
 Damon: Emily. I swear to God, I'll make you regret this.
-Bonnie/Emily: I won't let you unleash them into this world.
+Bonnie and Emily: I won't let you unleash them into this world.
 Stefan: Them? What part of the story did you leave out, Damon?
 Damon: What does it matter?
 Stefan: Emily, tell me what you did.
-Bonnie/Emily: To save her, I had to save them.
+Bonnie and Emily: To save her, I had to save them.
 Stefan: You saved everyone in the church?
-Bonnie/Emily: With one, comes all.
+Bonnie and Emily: With one, comes all.
 Damon: I don't care about them. I just want Katherine.
 Stefan: I knew I shouldn't have believed a single word that comes out of your mouth. This isn't about love, is it? This is about revenge.
 Damon: The two aren't mutually exclusive.
@@ -5013,15 +5013,15 @@ Stefan: 27 vampires, Damon. They were vampires. You can't just bring them back.
 Damon: This town deserves this.
 Stefan: You're blaming innocent people for something that happened 145 years ago.
 Damon: There is nothing innocent about these people, and don't think for a second it won't happen again. They already know too much, and they'll burn your little grandwitch right next to us when they find out. Trust me.
-Bonnie/Emily: Things are different now.
+Bonnie and Emily: Things are different now.
 Damon: Don't do this.
-Bonnie/Emily: I can't free them. I won't. [chants] Incendia!
-[The pentagram Emily carved into the dirt around her is set ablaze, and flames create a wall between Emily/Bonnie and Stefan, Damon and Elena.]
+Bonnie and Emily: I can't free them. I won't. [chants] Incendia!
+[The pentagram Emily carved into the dirt around her is set ablaze, and flames create a wall between Emily and Bonnie and Stefan, Damon and Elena.]
 
 Damon: No! No please.
 Elena: Bonnie!
 Damon: No!
-[Bonnie/Emily throws the necklace into the air, and it explodes above them. Once the spell is complete and the crystal is destroyed, Emily departs from Bonnie's body. Bonnie finally reawakens, and looks around in horror, having no idea what had just occurred. Damon is furious, and since his deal with Emily is off, he bites Bonnie and feeds on her. Elena yells in fear, and Stefan rushes over to pull Damon off of her. He kneels next to her and checks her pulse.]
+[Bonnie and Emily throws the necklace into the air, and it explodes above them. Once the spell is complete and the crystal is destroyed, Emily departs from Bonnie's body. Bonnie finally reawakens, and looks around in horror, having no idea what had just occurred. Damon is furious, and since his deal with Emily is off, he bites Bonnie and feeds on her. Elena yells in fear, and Stefan rushes over to pull Damon off of her. He kneels next to her and checks her pulse.]
 
 Stefan: She's alive, but barely. I can save her.
 [He bites into his wrist and dribbles his blood into Bonnie's mouth. Elena watches in shock as her wound closes up right before her eyes.]
@@ -5095,7 +5095,7 @@ Logan: I can explain. Just invite me in and I'll tell you everything.
 Jenna: I'm not gonna invite you in. Forget it.
 Logan: Come on, Jenna. It's me.
 Jenna: The answer's no.
-Logan: I know you. You're always one step from a "maybe", a tiny nudge to "yes".
+Logan: I know you. You're always one step from a maybe, a tiny nudge to yes.
 Jenna: [scoffs] You just pointed out that I have no self-control. Clever strategy!
 [Logan opens his mouth to say something, but Jenna slams the door in his face. Logan, clearly frustrated with the way their conversation went, walks to the edge of the porch. He sees a neighbor taking out the garbage. He walks down the porch steps and towards the man.]
 
@@ -5115,7 +5115,7 @@ Daphne: No, what?
 
 [The next morning, Jeremy is up and reading his ancestor Johnathan Gilbert's journal.]
 
-Jeremy: "I live in fear. It consumes me. In the early evening when I see the sun begin to fade, the fear comes, because I know that the night brings death."
+Jeremy: I live in fear. It consumes me. In the early evening when I see the sun begin to fade, the fear comes, because I know that the night brings death.
 [Jeremy continues to flip through the pages of the journal. He finds a loose paper with a sketch drawn on it and becomes inspired. He pulls out an box from his closet and grabs an old sketchbook from it. He sets the box down and grabs a piece of charcoal. Flipping through the sketchbook, Jeremy sees all the old sketches he used to draw. He smiles at the memories and finally finds a blank page. He starts recreating the loose sketch from the journal. Elena walks out of her room and glances into Jeremy's room. She walks over to the doorway and sees Jeremy sketching. She smiles and quietly closes the door. Downstairs, Jenna is getting ready to leave. Elena comes down the stairs.]
 
 Elena: Jeremy's got his sketch pad out.
@@ -5136,7 +5136,7 @@ Jenna: He's back. [Elena groans]  I didn't let him pass the front door.
 Elena: I hope you slammed it in his face.
 Jenna: Ah, medium slam.
 Elena: Three-strike rule, Jenna. You're not even allowed to watch the news.
-Jenna: Exactly. No more Logan "Scum" Fell.
+Jenna: Exactly. No more Logan Scum Fell.
 
 Salvatore Boarding House
 [Stefan walks into the parlor room where Damon is staring out the window.]
@@ -5146,7 +5146,7 @@ Damon: I don't know. London, maybe. See some friends.
 Stefan: You don't have any friends, Damon.
 Damon: You're right, Stefan. I only have you. [turns away from the window] So, where are we goin'?
 Stefan: We are not going anywhere. I'm gonna live my life as far away from you as possible.
-Damon: [walking towards Stefan] But we're a team! We could travel the world together. We could try out for "The Amazing Race".
+Damon: [walking towards Stefan] But we're a team! We could travel the world together. We could try out for The Amazing Race.
 Stefan: Mmmm, that's funny. Seriously, where are you going? Because we are not staying in this town.
 [The doorbell rings. Damon and Stefan glance at the door and back at each other. Stefan leaves the parlor and opens the front door. Liz Forbes is outside.]
 
@@ -5207,7 +5207,7 @@ Bonnie: Maybe it's for the best.
 
 Elena: What? Why?
 Bonnie: I mean, what kind of future could you have had with him, even if he stayed?
-[Suddenly, a banner falls down on them that says "The Promise of your Future.]
+[Suddenly, a banner falls down on them that says The Promise of your Future.]
 
 Elena: Did you just...?
 Bonnie: No, I swear.
@@ -5255,15 +5255,15 @@ Tyler: So, what's up with you and Forbes?
 Matt: Nothing's up.
 Tyler: I saw you two in the hall today. Don't even try to deny it, bro. You're tapping that.
 Matt: No, it's not like that.
-Tyler: Never is. Until you become "we" people.
+Tyler: Never is. Until you become we people.
 [Tyler shoots the ball and scores a goal. Matt grabs the ball.]
 
-Matt: "We" people?
-Tyler: Yeah, "we can't make it to the party"; "we'll never miss a game"; "we don't like the color red"
+Matt: We people?
+Tyler: Yeah, we can't make it to the party; we'll never miss a game; we don't like the color red
 Matt: We hung out, like, twice.
 [Matt shoots a basket and scores. Tyler catches the ball.]
 
-Tyler: Like I said, "we."
+Tyler: Like I said, we.
 [Elena and Stefan are sitting together on a table.]
 
 Elena: So, you have no idea who it could be?
@@ -5603,14 +5603,14 @@ Logan: The satisfaction of turning your daughter into a vampire.
 Damon: Payback's a bitch, isn't it? [to Stefan] Get her out of here.
 [Stefan goes around to the passenger's side to retrieve Caroline.]
 
-Sheriff Forbes (on the phone): Logan, what happened?! Logan?
+Sheriff Forbes [on the phone]: Logan, what happened?! Logan?
 [Damon jogs over to the car and picks up Logan's phone.]
 
-Damon (phone): Sheriff, yeah, it's Damon.
-Sheriff Forbes (phone): Where is Caroline?
+Damon [phone]: Sheriff, yeah, it's Damon.
+Sheriff Forbes [phone]: Where is Caroline?
 [Stefan grabs Caroline and vamp speeds out of the area.]
 
-Damon (phone): She's ok. I'm on Elm Street.
+Damon [phone]: She's ok. I'm on Elm Street.
 [Damon hangs up the phone and opens Logan's trunk. He grabs a tire iron.]
 
 Damon: Gonna try this one more time. [swings the tire iron, indicating that he will harm Logan] Who turned you?
@@ -5640,7 +5640,7 @@ Mystic Falls High School
 Elena: Caroline?
 [The two walk a short distance away and stop.]
 
-Stefan: She‘s ok. I took her home. She was shaken up. But all she knows is Logan attacked her. Nothing else.
+Stefan: Shes ok. I took her home. She was shaken up. But all she knows is Logan attacked her. Nothing else.
 Elena: Where's Logan?
 Stefan: Damon's dealing with him.
 Elena: As in...?
@@ -5796,7 +5796,7 @@ Damon: Upsy-daisy.
 [Damon picks her up and carries her away.]
 
 Alaric's Apartment
-Alaric (typing on his computer): I found one. After years of research and study, there it was right in front of me. I was terrified. As I stared it in the eyes, I drove a stake through its heart. I was right about Mystic Falls. There is evil here. I can sense it. Feel it. It's everywhere.
+Alaric [typing on his computer]: I found one. After years of research and study, there it was right in front of me. I was terrified. As I stared it in the eyes, I drove a stake through its heart. I was right about Mystic Falls. There is evil here. I can sense it. Feel it. It's everywhere.
 [Alaric looks at a photo of a young woman.]
 
 Flashback
@@ -5845,7 +5845,7 @@ Damon: Yeah. I don't...I don't really think she wants to talk to you right now.
 Stefan: Damon, I swear to God, if you touch her...
 Damon: [smirks] You have a good day. Mm-hmm. Bye-now.
 Stefan: Argh!
-Elena (to Damon): Look, no one knows where I am. Can we please just go back?
+Elena [to Damon]: Look, no one knows where I am. Can we please just go back?
 Damon: We're almost there.
 Elena: Where is there?!
 Damon: A little place right outside of Atlanta. Oh, come on, Elena. You don't wanna go back right now. Do you? What's the rush? Time-out. Trust me. Your problems are still going to be there when you get home. Look. Step away from your life for five minutes. Five minutes!
@@ -5900,9 +5900,9 @@ Damon: I pulled it off to the side of the road. I don't think anyone will bother
 Elena: What about that man in the road? Was he a...?
 Damon: From what I could tell, yeah...
 Elena: You didn't know him?
-Damon: If I've never met him, I wouldn't know him. I mean, it's not like we all hang out together at the Vamp Bar & Grill.
+Damon: If I've never met him, I wouldn't know him. I mean, it's not like we all hang out together at the Vamp Bar and Grill.
 Bree's Bar
-[Damon pulls up in front of a bar named "Bree's Bar".]
+[Damon pulls up in front of a bar named Bree's Bar.]
 
 Elena: Where are we? You brought me to a bar? Damon, I'm not old enough. They're not going to let me in.
 Damon: Sure they will.
@@ -5916,10 +5916,10 @@ Elena: I'm not roped in. Actually, I'm dating his...
 Bree: Honey, if you're not roped, you're whipped. Either way, just enjoy the ride. [smiles and pours more alcohol.]
 Elena: Okay. So, how did you two meet?
 Bree: College.
-Elena (to Damon): You went to college?
+Elena [to Damon]: You went to college?
 Damon: [smiling] I've been on a college campus, yes.
 Bree: About twenty years ago, when I was a sweet, young freshman, I met this beautiful man, and I fell in love. And then he told me about his little secret, made me love him more. Because, you see, I had a little secret of my own that I was dying to share with somebody.
-Damon (whispering to Elena): She's a witch.
+Damon [whispering to Elena]: She's a witch.
 Bree: Changed my world, you know.
 Damon: [smirking] I rocked your world.
 Bree: He is good in the sack, isn't he? But mostly he's just a Walk-Away Joe. [to Damon] So, what is it that you want?
@@ -6012,7 +6012,7 @@ Grams: I trust you'll keep her safe. You'd better be on your way, then. I'm not 
 Mystic Falls Library
 Anna: [gestures to an aisle of bookshelves] This aisle is local and state history. And Civil War is one over. What do you need?
 Jeremy: Local. 1860s. Do you work here?
-Anna: Nope. You want reference. This way. Um, home-schooled. I study here for a "mock-school environment." Ah, here we go. Original settlers, town archives, Founders' stuff. It's all here. So, what's your topic?
+Anna: Nope. You want reference. This way. Um, home-schooled. I study here for a mock-school environment. Ah, here we go. Original settlers, town archives, Founders' stuff. It's all here. So, what's your topic?
 Jeremy: The town's fear and hysteria surrounding the war and how it influenced certain writers of the time.
 Anna: You might want to focus that.
 Jeremy: The origin of local folklore and myths.
@@ -6096,10 +6096,10 @@ Jeremy: I just find it weird that our ancestors kept the same kind of journal. I
 Anna: Maybe it's based in some partial reality.
 Jeremy: No. It's gotta be metaphorical. My ancestor wrote short stories.
 Anna: So, that's why you're hung up on the fiction of it all.
-Jeremy: No, I'm hung up on the fiction of it all because I've seen "The Lost Boys" and "Near Dark," like, fifty times.
+Jeremy: No, I'm hung up on the fiction of it all because I've seen The Lost Boys and Near Dark, like, fifty times.
 Anna: Are those movies? Hey, I've never seen them. Maybe we can have a Fright Night and rent a whole bunch of vampire movies.
 Jeremy: Uh, yeah, sure.
-Anna: Why does that sound like a "no way in hell"? Sorry, I'm blunt.
+Anna: Why does that sound like a no way in hell? Sorry, I'm blunt.
 Jeremy: No, it's--I don't want you to get the wrong idea. I just recently got out of something. It's a little too soon, you know?
 Anna: Oh please, sure. No worries. I meant as friends. Yeah. Look, I really gotta go. Nice meeting you, Jeremy.
 Bree's Bar
@@ -6145,7 +6145,7 @@ Elena: Lexi? Lexi was your girlfriend? She told me about you. She said that you 
 Lee: I was.
 Elena: Lexi turned you?
 Lee: If you want to be with someone forever, you have to live forever.
-Elena: She loved you. She said that, "When it's real, you can't walk away."
+Elena: She loved you. She said that, When it's real, you can't walk away.
 Lee: Well, that's a choice you're not going to have to make.
 Elena: Don't. Don't, please, don't hurt him...
 [The man lights a match.]
@@ -6249,7 +6249,7 @@ Anna: Hi. Okay, look. I know I don't know you, so don't ask me why I did this. I
 
 Jeremy: What is it?
 Anna: Proof. Sort of.
-[Jeremy starts looking through it. It contains printed-out articles from the Mystic Falls Courier newspaper. Among the articles are ones titled "Another Animal Attack - Second attack in Two Weeks leads to closings and cancelations", "Campers Found Mauled - Animal Attack suspected in recent deaths".]
+[Jeremy starts looking through it. It contains printed-out articles from the Mystic Falls Courier newspaper. Among the articles are ones titled Another Animal Attack - Second attack in Two Weeks leads to closings and cancelations, Campers Found Mauled - Animal Attack suspected in recent deaths.]
 
 Jeremy: What does this mean?
 Anna: Well, I only went as far back as 1942, and found that there's been a string of animal attacks periodically in and around this town for the past seventy-five years. It's consistent. In '62, five bodies found. In '53, four people killed. In '74, three people dead. And there's been five this year. All attacked. All suffered major blood loss, as in drained of blood.
@@ -6291,7 +6291,7 @@ Gilbert Residence
 Elena: Stefan, who was that man in the road?
 Stefan: I don't know. Do you remember anything else about him?
 Elena: I wish. I never really saw his face. He was wearing a hoodie. All I can remember is that there was these black boots coming towards me.
-Stefan: I brought some vervain for, um—for you and Jenna. [Grabs a box from the end of the bed. Elena sits up straight. Stefan opens the box up.] And, um, I made this bracelet for Jeremy, few extra ones for friends. [Stefan hands Elena the bracelet. She takes it and observes it.] You can put it in jewelry, or you can even put it in food or drink, but as long as it's in you or on you, a vampire cannot control you. [Stefan hands Elena a small vial of liquid vervain.]
+Stefan: I brought some vervain for, um, for you and Jenna. [Grabs a box from the end of the bed. Elena sits up straight. Stefan opens the box up.] And, um, I made this bracelet for Jeremy, few extra ones for friends. [Stefan hands Elena the bracelet. She takes it and observes it.] You can put it in jewelry, or you can even put it in food or drink, but as long as it's in you or on you, a vampire cannot control you. [Stefan hands Elena a small vial of liquid vervain.]
 Elena: [picks up a dried up branch of vervain from the box] Wow. So much to remember.
 Stefan: I know, but there's another vampire in town. So until we find out who it is and what he wants, we have to be careful.
 [Elena nods understandingly.]
@@ -6326,13 +6326,13 @@ Damon: Don't you have school?
 [Damon grabs another book off the shelf. Stefan walks out of the room and Damon looks up and watches him leave.]
 
 Mystic Falls High School
-[The bell rings signaling the end of class. Students get up from their desks and start to leave the classroom. Jeremy is packing up his stuff when a paper is thrown down onto his desk by Alaric. Jeremy looks down at the paper and picks it up. A giant red "A" is marked on the paper. Jeremy smiles, stunned by his grade.]
+[The bell rings signaling the end of class. Students get up from their desks and start to leave the classroom. Jeremy is packing up his stuff when a paper is thrown down onto his desk by Alaric. Jeremy looks down at the paper and picks it up. A giant red A is marked on the paper. Jeremy smiles, stunned by his grade.]
 
 Alaric: Surprised? It's a good essay. Your thoughts are clear, and your argument is well laid out. It's just, uh, you don't actually think there are vampires in Mystic Falls.
 [Alaric sits down behind his desk.]
 
 Jeremy: No. I mean, I think statistically there's been more animal attacks, mysterious deaths, uh, people gone missing, more than any other place in the whole commonwealth of Virginia.
-Alaric: It's conjecture, but creative, which is why you got the "A." I just wouldn't get too, uh, caught up in the whole conspiracy theory of it all.
+Alaric: It's conjecture, but creative, which is why you got the A. I just wouldn't get too, uh, caught up in the whole conspiracy theory of it all.
 Jeremy: Ah, I won't.
 [Jeremy gathers up his stuff, gets up, and starts to exit the room.]
 
@@ -6418,7 +6418,7 @@ Bonnie: Thank you.
 Ben McKittrick: Anytime, Bonnie.
 Bonnie: Wait. You remember me?
 Ben McKittrick: I didn't graduate that long ago. You're makin' me feel old.
-Bonnie: No, sorry. I didn't...I didn't mean that. I just—I didn't know you knew me.
+Bonnie: No, sorry. I didn't...I didn't mean that. I just, I didn't know you knew me.
 Ben McKittrick: I always know a pretty face.
 [Bonnie smiles.]
 
@@ -6471,7 +6471,7 @@ Caroline: [scoffs, smiling up at Matt] Don't talk smack.
 Matt: I mean, [Matt threateningly holds his paintbrush out at Caroline, who backs away, smiling.] I just thought that you told everyone else what to do.
 [Matt and Caroline go back to painting the banner.]
 
-Caroline: Well, I do that, too, but if you want something done right, you gotta do it yourself. You know, I just like that we're hanging out. Who knew—you and me?
+Caroline: Well, I do that, too, but if you want something done right, you gotta do it yourself. You know, I just like that we're hanging out. Who knew, you and me?
 Matt: Well, who knew you could be fun?
 [They smile at each other and continue to paint.]
 
@@ -6491,9 +6491,9 @@ Mystic Grill
 Anna: Hey. How'd it go?
 Jeremy: What?
 Anna: The paper.
-Jeremy: Oh. I got an "A." Thanks for the articles. They really helped.
+Jeremy: Oh. I got an A. Thanks for the articles. They really helped.
 Anna: Cool. So what'd he say about the vampires? Did he believe it?
-Jeremy: I don't even believe it. It's just a paper, Anna. Anyways, I, uh—I gotta get goin'.
+Jeremy: I don't even believe it. It's just a paper, Anna. Anyways, I, uh, I gotta get goin'.
 [Jeremy gets up and walks around the pool table. Anna follows him.]
 
 Anna: Uh, hey, um...D-do you wanna do something later, maybe?
@@ -6504,7 +6504,7 @@ Anna: Maybe, you know, tomorrow or something.
 [Jeremy smiles and looks down. Anna catches on.]
 
 Anna: I'm being pushy again, aren't I? Heh.
-Jeremy: Well, thanks for the help. I'll—I'll see you around.
+Jeremy: Well, thanks for the help. I'll, I'll see you around.
 [Jeremy grabs his backpack and leaves. Anna watches him go, looking displeased with herself.]
 
 Gilbert Residence
@@ -6601,7 +6601,7 @@ Elena: I'll be with the two of you. I'll be safe.
 [Stefan nods and looks up at Damon, who shrugs his shoulder.]
 
 Mystic Falls High School
-[The '50s dance. The students of Mystic Falls are dressed in their best '50s getups and dancing to "This Magic Moment". Caroline and Bonnie are dancing together on the dance floor. Elena and Stefan, arms linked, walk into the dance, with Damon standing on the other side of Elena. They look around the dance floor for any sign of danger. Alaric spots Damon from the other side of the room and the smile falls from his face as he recognizes who Damon is. Suddenly, Jenna approaches Alaric.]
+[The '50s dance. The students of Mystic Falls are dressed in their best '50s getups and dancing to This Magic Moment. Caroline and Bonnie are dancing together on the dance floor. Elena and Stefan, arms linked, walk into the dance, with Damon standing on the other side of Elena. They look around the dance floor for any sign of danger. Alaric spots Damon from the other side of the room and the smile falls from his face as he recognizes who Damon is. Suddenly, Jenna approaches Alaric.]
 
 Jenna: Alaric.
 Alaric: Hey, look at you.
@@ -6630,7 +6630,7 @@ Caroline: Mmm. I'll help.
 [Alaric and Jenna walk across the dancefloor, punch cups in hand.]
 
 Jenna: I'm really starting to see a change in Jeremy. Finally.
-Alaric: Uh, losing someone you love so suddenly, the, uh—the trauma and the grief there are some of the tougher things he'll face in life.
+Alaric: Uh, losing someone you love so suddenly, the, uh, the trauma and the grief there are some of the tougher things he'll face in life.
 [They stop in front of the projection screen and face each other.]
 
 Jenna: From someone who knows. You have no idea what happened?
@@ -6676,7 +6676,7 @@ Elena: Not unless he has a pompadour.
 Stefan: Heh. Wow. Not one of the better fashion trends.
 Elena: Come on. I'm sure you looked great back then. Are there pictures?
 Stefan: No. Burned. Buried.
-Elena: Seriously, what was it like, the fifties? Cause in my mind, I have this picture of somewhere between "American Bandstand," "Grease." It's all varsity sweaters and milkshakes.
+Elena: Seriously, what was it like, the fifties? Cause in my mind, I have this picture of somewhere between American Bandstand, Grease. It's all varsity sweaters and milkshakes.
 Stefan: Well, that and, you know, McCarthyism and segregation and nuclear arms race.
 Elena: Ok, but there were poodle skirts?
 Stefan: There were poodle skirts.
@@ -6732,7 +6732,7 @@ Alaric: I hear he's very bright, not that I've had a chance to see for myself.
 Damon: Well, his attendance record's a little spotty. Family drama.
 Alaric: No parents?
 Damon: Mm, it's just the two of us now.
-Alaric: You, uh—you live here your whole life?
+Alaric: You, uh, you live here your whole life?
 Damon: On and off. Travel a bit.
 Alaric: Really? Where? Around the states? [Damon looks at him with raised eyebrows] Heh. I'm sorry. I'm nosy. I...I don't mean to pry. Look, it was nice meeting you.
 Damon: You, too.
@@ -6964,7 +6964,7 @@ Gilbert Residence
 [Alaric and Jenna walk up the stairs of the front porch and stop outside the front door. Jenna hands Alaric his letter men jacket which she had slung over her shoulder.]
 
 Jenna: Thank you. I needed that.
-Alaric: Well, thank you for—for coming. I...I really appreciate it. You made the evening much more...Well, you made it, period.
+Alaric: Well, thank you for, for coming. I...I really appreciate it. You made the evening much more...Well, you made it, period.
 Jenna: I'm glad I could help.
 Alaric: And thank you for putting up with all that wife talk. I...I gotta stop doin' that. It doesn't bode well for dating.
 Jenna: Is that what this was, a date?
@@ -7176,7 +7176,7 @@ Pearl: Try it.
 
 Katherine: What in hell?!
 Pearl: Vervain.
-Katherine: Why is there ver—[sighs]—they know.
+Katherine: Why is there ver, [sighs], they know.
 Pearl: They're trying to find us, and they're getting crafty about it.
 Katherine: The townspeople ingesting vervain? Well, that's inconvenient.
 [Katherine hands the bottle of liquid vervain back to Pearl.]
@@ -7621,13 +7621,13 @@ Mystic Grill
 Gilbert Residence
 [Stefan and Elena are looking through the copied pages of the journal in Elena's room.]
 
-Elena: Here's a reference that he wrote about Emily. [She reads aloud from the page.] "The Fell family believed it should be I, not them, who protected the witch's spell book. But I feared she would haunt me from the hereafter. They mocked my fear, but it was Giuseppe Salvatore who-" [She pauses] Is that your father?
+Elena: Here's a reference that he wrote about Emily. [She reads aloud from the page.] The Fell family believed it should be I, not them, who protected the witch's spell book. But I feared she would haunt me from the hereafter. They mocked my fear, but it was Giuseppe Salvatore who- [She pauses] Is that your father?
 [Stefan has sat down next to Elena.]
 
 Stefan: Yeah.
 [Stefan takes the pages from Elena and continues to read aloud.]
 
-Stefan: "It was Giuseppe Salvatore who removed my fear. He told me he would protect the secret of the spell book. He said he would carry it to his grave."
+Stefan: It was Giuseppe Salvatore who removed my fear. He told me he would protect the secret of the spell book. He said he would carry it to his grave.
 [Stefan looks up from the pages, his brow furrowed.]
 
 Salvatore Estate 1864
@@ -8015,7 +8015,7 @@ Ben McKittrick: That's why she's here. Motivation for you to behave. You know, y
 Ben McKittrick: She wants to talk to you.
 [Elena stumbles into the motel room. Anna leans against a table, looking at Elena.]
 
-Anna: Well, well. Elena Gilbert. You really are Katherine's doppelgänger. You must have the Salvatore boys reeling.
+Anna: Well, well. Elena Gilbert. You really are Katherine's doppelganger. You must have the Salvatore boys reeling.
 Elena: Who are you?
 Anna: I'm Anna. Your brother may have mentioned me. [says with girlish sarcasm] I mean, we're like, practically dating.
 Mystic Grill
@@ -8052,7 +8052,7 @@ Caroline: Hey!
 Matt: Hey.
 Caroline: So, I have a speech. It is fully scripted and well-rehearsed. Are you ready for it?
 Matt: You wrote a speech?
-Caroline: Yes. It's a "You kissed me and I don't want things to be weird" speech. It's preemptive.
+Caroline: Yes. It's a You kissed me and I don't want things to be weird speech. It's preemptive.
 Matt: [chuckles] Preemptive?
 Caroline: Yeah, you know, in case you were having second thoughts or regrets, or were, like, ooged out-
 Matt: Ooged, huh?
@@ -8488,7 +8488,7 @@ Grams: Because she isn't coming out, baby. None of them are.
 
 Stefan: Do you really think that she cares about you? Hm? You're disposable.
 Ben McKittrick: I don't care. She already gave me what I want.
-Stefan: Are you going to say "eternal life"? You really that stupid?
+Stefan: Are you going to say eternal life? You really that stupid?
 [Ben moves closer towards Stefan.]
 
 Ben McKittrick: You know, I've heard about you. You don't feed. You're not strong enough to beat me.
@@ -8660,7 +8660,7 @@ Jeremy: Yeah, okay.
 Elena: I've got to head on over to Bonnie's for a little bit, but is there anything that you need?
 Jeremy: No, I'm just...I'm gonna crash.
 Elena: Okay, well, Jenna's here and I'll be back soon.
-[Elena leaves. Jeremy gets up from his bed and goes to his computer. He googles the word "Vampire."]
+[Elena leaves. Jeremy gets up from his bed and goes to his computer. He googles the word Vampire.]
 
 Motel Room
 [Pearl and Anna go back to the motel room. Anna turns on the light and gets a shock when she sees Damon sitting in a chair in the corner of the room.]
@@ -8760,7 +8760,7 @@ Elena: So did you? Dig?
 Jenna: Come on inside.
 [Jenna and Elena go inside. Jenna pulls out her laptop and sits down at the dining table and Elena stands next to her, removing her jacket.]
 
-Jenna: Your dad kept everything from his medical practice—records, logs, old appointment books. [She pulls out a journal and opens it, showing a page to Elena.] I found an entry from the night you were born. Patient and a birth date. Isobel Peterson.
+Jenna: Your dad kept everything from his medical practice, records, logs, old appointment books. [She pulls out a journal and opens it, showing a page to Elena.] I found an entry from the night you were born. Patient and a birth date. Isobel Peterson.
 Elena: Do you think that's her real name?
 Jenna: Pregnant teenage runaway? Probably not. First name, maybe. But where'd she get Peterson? Classmate? Best friend? So I binged it. [She pulls up the Internet and types in a name in the search engine] I searched for all the Petersons in this area born the same year as Isobel, found 3--2 men and a woman, Trudie, who lived in Grove Hill, Virginia.
 Elena: That's not far from here.
@@ -8771,7 +8771,7 @@ Elena: Isobel. [looks at the picture with a smile] She was a cheerleader.
 Jenna: Trudie still lives there. [She hands Elena a post-it note] This is her address.
 Elena: What about Isobel?
 Jenna: I couldn't find anything about her. [Elena looks disheartened as she sits down at the table. Jenna briefly pauses before divulging new information] Listen. There's something else. Mr. Saltzman, Ric, his wife was from around here, and her name was also Isobel.
-Elena: Wait. "Was," as in...
+Elena: Wait. Was, as in...
 Jenna: She died.
 [Later, Elena is putting away clothes in her drawer. Stefan stands behind her as they discuss this new turn of events.]
 
@@ -8785,8 +8785,8 @@ Elena: Just that she was killed and the case was never solved.
 
 Elena: You knew that already?
 Stefan: The night at the school when he attacked me, he told me some things about her death.
-Elena: Well—
-Stefan: No, no. [He gently grabs Elena's wrists.] It's not possible. The coincidence is—it's too much. Now, listen, if you do decide to go talk to Isobel's friend, I'll go with you. Okay?
+Elena: Well, 
+Stefan: No, no. [He gently grabs Elena's wrists.] It's not possible. The coincidence is, it's too much. Now, listen, if you do decide to go talk to Isobel's friend, I'll go with you. Okay?
 Elena: I just don't know what I'm gonna do yet.
 [Elena wraps her arms around Stefan's neck and they embrace each other lovingly.]
 
@@ -8794,7 +8794,7 @@ Stefan: I should get going. I gotta go deal with Damon.
 Elena: How's he doing?
 Stefan: He's dealing in his own way.
 Salvatore Boarding House
-[Damon is feeding off a young sorority girl. There are other girls dancing to the song "Black Hearts (On Fire)" playing in the room. All of the girls have bite marks up and down their bodies. Damon comes up for air after feeding.]
+[Damon is feeding off a young sorority girl. There are other girls dancing to the song Black Hearts [On Fire] playing in the room. All of the girls have bite marks up and down their bodies. Damon comes up for air after feeding.]
 
 Girl: How do I taste?
 Damon: [drunkenly] Oh, so much better than your friends. But shh. Don't tell them. They might get jealous.
@@ -8821,7 +8821,7 @@ Stefan: There was a woman you may have known a few years back named Isobel in No
 Damon: You wanna discuss the women in my past right now? Seriously?
 Stefan: You killed her.
 Damon: What's your point?
-Stefan: I just—just wanna know if you remember anything about her.
+Stefan: I just, just wanna know if you remember anything about her.
 Damon: Oh, it's like a needle in a haystack, Stefan.
 Stefan: Well, think hard. It's important.
 [Damon grasps Stefan's shoulder and whispers in his ear.]
@@ -8829,7 +8829,7 @@ Stefan: Well, think hard. It's important.
 Damon: Nothing is important, not anymore.
 [He claps Stefan on the shoulder and pulls away, grabbing the bottle from Stefan's hand.]
 
-Damon: Great chat. I have to go and exploit some women in the name of grief, which I'm sure you understand. "TTFN", said the Tri-Delt. Heh.
+Damon: Great chat. I have to go and exploit some women in the name of grief, which I'm sure you understand. TTFN, said the Tri-Delt. Heh.
 [Damon walks back to the girls.]
 
 Donovan Residence
@@ -8884,7 +8884,7 @@ Alaric: Nope. No way.
 Jenna: This is Elena's birth mother.
 [Alaric looks alarmed.]
 
-Alaric: Ah, she, uh—she never told me. I, uh—I'm gonna go. Yeah, I'm gonna—gonna go.
+Alaric: Ah, she, uh, she never told me. I, uh, I'm gonna go. Yeah, I'm gonna, gonna go.
 [Alaric awkwardly walks off. Jenna sighs heavily.]
 
 Trudie's Residence
@@ -8902,7 +8902,7 @@ Trudie: Uh, the kitchen's this way.
 
 [Elena removes her jacket. Trudie walks into the room from the kitchen.]
 
-Elena: I wasn't gonna come. I didn't think I was, but I was driving, and I hit this stoplight, and it made me think about when I was learning how to drive and then my mom would always warn me about this blind turn on the left-hand side, and then I was thinking about my mom, and—I had your address. I'm sorry for barging in.
+Elena: I wasn't gonna come. I didn't think I was, but I was driving, and I hit this stoplight, and it made me think about when I was learning how to drive and then my mom would always warn me about this blind turn on the left-hand side, and then I was thinking about my mom, and, I had your address. I'm sorry for barging in.
 Trudie: It's no problem. Um, just a surprise, though.
 [Elena and Trudie sit down at the table.]
 
@@ -8918,7 +8918,7 @@ Trudie: Somewhere in North Carolina. Duke, I think.Smart girl, smart school.
 [The kettle starts whistling from the kitchen.]
 
 Trudie: Let me just grab that.
-[Trudie gets up and goes into the kitchen, looking back at Elena. She takes her phone out of her pocket and texts "She's here." to an unknown number.]
+[Trudie gets up and goes into the kitchen, looking back at Elena. She takes her phone out of her pocket and texts She's here. to an unknown number.]
 
 Donovan Residence
 [Matt is making breakfast and talking to his mother.]
@@ -9100,7 +9100,7 @@ Man: Thank you for the text.
 
 Trudie: You're welcome. I didn't tell her anything. I--I kept my promise.
 Man: Good.
-Trudie: The girl, though, she—she knew something.
+Trudie: The girl, though, she, she knew something.
 Man: That won't be a problem. She won't get any closer to the truth.
 Trudie: Good. So I'm done?
 Man: Yes. You're done.
@@ -9136,7 +9136,7 @@ Elena: How are you doing?
 Damon: Never better. Yep.
 [He puts on a button up shirt.]
 
-Damon: What can I do for you? I'm a barrel of favors today. It's my newfound purpose—how can I help people?
+Damon: What can I do for you? I'm a barrel of favors today. It's my newfound purpose, how can I help people?
 Elena: I'm just meeting Stefan. We're going to the fundraiser.
 [Damon pretends that he is to drunk to button up his shirt, so he tries to het Elena to do it for him so she'll be close to him. He turns around, looking at Elena hoping she'll come over to him.]
 
@@ -9194,7 +9194,7 @@ Alaric: No, I get it.
 Jenna: At some point, maybe you and Elena could talk. I'm sure she'd like to hear about Isobel, what she was like.
 Alaric: Yeah.
 Jenna: Uh...Or not. No pressure.
-Alaric: I don't know if that's a--a great idea. [clears throat] At least not—not for a while.
+Alaric: I don't know if that's a--a great idea. [clears throat] At least not, not for a while.
 [Jenna nods, understandingly.]
 
 Salvatore Boarding House
@@ -9270,7 +9270,7 @@ Damon: Isobel.
 
 Mrs Lockwood: And what do you do, Bachelor Number 3?
 Man: Yeah, I'm a plumber.
-Mrs Lockwood: Well, isn't that wonderful? We could always use more plumbers. Moving on. Number 4, "Alaric Saltzman." Wow. That's quite a mouthful. What do you do, Alaric?
+Mrs Lockwood: Well, isn't that wonderful? We could always use more plumbers. Moving on. Number 4, Alaric Saltzman. Wow. That's quite a mouthful. What do you do, Alaric?
 Alaric: I'm a teacher at Mystic Falls High.
 Mrs Lockwood: Oh, beauty and brains, ladies. This one's a keeper. What do you teach?
 Alaric: History.
@@ -9285,13 +9285,13 @@ Mrs Lockwood: He's probably saving the best stories for his date. [She moves dow
 
 Damon: Well, I'm tough to fit on a card.
 Mrs Lockwood: Do you have any hobbies, like to travel?
-Damon: Oh, yeah. L.A., New York. Couple of years ago, I was in North Carolina. Near the Duke campus, actually. I think—I think Alaric went to school there. Didn't you, Ric?
+Damon: Oh, yeah. L.A., New York. Couple of years ago, I was in North Carolina. Near the Duke campus, actually. I think, I think Alaric went to school there. Didn't you, Ric?
 [Damon turns to look at Alaric, who does the same.]
 
 Damon: Yeah, 'cause I-- I know your wife did.
 [Stefan becomes alert and looks over at Elena. Elena's face starts to falter. Stefan makes his way over to her.]
 
-Damon: I had a drink with her once. She was—she was a great girl. I ever tell you that? Cause she was -- Delicious. Mmm! Mmm mmm mmm.
+Damon: I had a drink with her once. She was, she was a great girl. I ever tell you that? Cause she was -- Delicious. Mmm! Mmm mmm mmm.
 [Elena's mouth hangs open. Her eyes filled with tears as she stares at Damon. Jenna looks over at her.]
 
 Jenna: Are you okay?
@@ -9304,7 +9304,7 @@ Stefan: Elena.
 Elena: He killed her? Damon was the vampire that killed her?
 Stefan: I don't know what happened. Alaric said that they never found the body.
 Elena: Oh, my god. Stefan.
-Stefan: I know. I'm sorry. I wanted to tell you. But I just—I wanted to know more.
+Stefan: I know. I'm sorry. I wanted to tell you. But I just, I wanted to know more.
 Elena: I was feeling sorry for him, hoping that this whole Katherine thing would change him. I'm so stupid.
 Stefan: He doesn't know about the connection to you. I thought about confronting him, but he's already so on edge.
 Elena: Why are you protecting him?
@@ -9415,7 +9415,7 @@ Donovan Residence
 [Matt guides Kelly into the house. Kelly is obviously intoxicated.]
 
 Matt: Here we go. Home, sweet home.
-Kelly: Wait. Why—why are we back here? I wasn't ready to leave.
+Kelly: Wait. Why, why are we back here? I wasn't ready to leave.
 Matt: Yeah, you were, mom.
 [Kelly sits down on the sofa with Matt's help and he sits down beside her.]
 
@@ -9662,7 +9662,7 @@ Caroline: Why not? We all haven't gone out together before and I don't want it t
 Elena: I don't know.
 Stefan: I think that sounds like a great idea.
 Elena: You do?
-Stefan: Yeah. A nice evening out with friends. Sounds fun, as in "fun".
+Stefan: Yeah. A nice evening out with friends. Sounds fun, as in fun.
 Elena: A double date it is.
 Caroline: Ok. So, we will see you tonight.
 Elena: OK.
@@ -9682,18 +9682,18 @@ Damon: I kill them.
 Pearl: Have a seat, Damon. I was hoping we could have a word.
 Damon: Sure.
 Gilbert Residence
-[Jeremy is on his computer in his bedroom chatting on a website entitled "The Lair (Vampire Lovers Only)".]
+[Jeremy is on his computer in his bedroom chatting on a website entitled The Lair [Vampire Lovers Only].]
 
-Jeremy (on computer as user "Vampjer"): "How do you become a vampire?"
-User (username "Bloodybecky"): "Brad Pitt changed me".
-User (username "FANG69"): "Go to Vegas. Ask for Wayne Newton".
-Jeremy (on computer): "How do you kill a vampire?"
-User (username "USUCK14"): "The blood of Paula Abdul".
-Jeremy (to himself): Great.
-Jeremy (on computer): "Serious answers only please".
-User (username "Bloodybecky"): "Stake in the heart always works".
-Jeremy (on computer): "You're a believer?"
-User (username "Bloodybecky"): "Aren't you?"
+Jeremy [on computer as user Vampjer]: How do you become a vampire?
+User [username Bloodybecky]: Brad Pitt changed me.
+User [username FANG69]: Go to Vegas. Ask for Wayne Newton.
+Jeremy [on computer]: How do you kill a vampire?
+User [username USUCK14]: The blood of Paula Abdul.
+Jeremy [to himself]: Great.
+Jeremy [on computer]: Serious answers only please.
+User [username Bloodybecky]: Stake in the heart always works.
+Jeremy [on computer]: You're a believer?
+User [username Bloodybecky]: Aren't you?
 Salvatore Boarding House
 Pearl: We've taken up residence at a farmhouse just outside the town. It'll suffice for now.
 Damon: All 25 vampires?
@@ -9795,7 +9795,7 @@ Jenna: Kelly? Kelly Donovan?
 Kelly: Jenna!
 [They hug each other.]
 
-Jenna: I heard you were back in town. (To Damon) She used to babysit me.
+Jenna: I heard you were back in town. [To Damon] She used to babysit me.
 Kelly: And then I used to party with her.
 Jenna: This woman is crazy.
 Kelly: Not as crazy as you.
@@ -9819,7 +9819,7 @@ Harper: Maybe you should quit complaining.
 
 Frederick: You're going to stop me?
 Bethanne: Let it be Frederick. You heard what Pearl said.
-Frederick: I don't care what Pearl said. (To Harper) What you got boy?
+Frederick: I don't care what Pearl said. [To Harper] What you got boy?
 [Harper gets up and pushes Frederick on the couch. Frederick pushes Harper against the wall.]
 
 Frederick: Try that again.
@@ -9873,12 +9873,12 @@ Kelly: Let's.
 Caroline: At least they're having fun.
 Elena: They're drunk.
 Matt: Remember when Elena's parents busted us here after the homecoming?
-Caroline (laughing): Oh my god yes!
+Caroline [laughing]: Oh my god yes!
 Elena: Well, we were wasted; it was the first time I ever got drunk. I blame Matt.
 Matt: Her parents got seated at the next booth.
 Elena: And Matt had me pretend that I was choking so we could get away.
 Matt: Except that her dad was a doctor so he jumped up to save her.
-Elena: And I ran, slipped on the wet floor and bit it in front of everyone. Do you remember that? 3 stitches, a hangover for days and I was grounded from seeing this one (She looks at Matt) for a week.
+Elena: And I ran, slipped on the wet floor and bit it in front of everyone. Do you remember that? 3 stitches, a hangover for days and I was grounded from seeing this one [She looks at Matt] for a week.
 [Matt and Elena look at each other and laugh.]
 
 Caroline: I'm gonna go to the restroom. Elena?
@@ -9895,7 +9895,7 @@ Jeremy: What made you and your mom decide to stay in town?
 Anna: She got this business opportunity; she's going to open up a little store. It has always been her dream. So yeah we're staying. And I'm thinking about going back to high school, so you'll be seeing a little more of me.
 Jeremy: Yeah?
 Anna: Enough of homeschooling. I'd like to be a normal teen for once. But I have to ask my mom first, she'll have an opinion.
-Jeremy: Well, I wish you were there now. I actually have to write another paper. I was thinking about squeezing one more out on "the vampire in Mystic Falls".
+Jeremy: Well, I wish you were there now. I actually have to write another paper. I was thinking about squeezing one more out on the vampire in Mystic Falls.
 Anna: Really? Haven't you exhausted the subject?
 Jeremy: No, I want to go deeper, you know. I want to understand why people were labelled as vampires back in the day. I mean, maybe there's such a thing has vampires, they're just different from the way we always thought they were.
 Anna: What do you mean?
@@ -9936,12 +9936,12 @@ Frederick: My mistake.
 Elena: How's everything going?
 Stefan: Matt's cheating.
 Matt: No need, I'm awesome.
-Frederick (watching them): Stefan Salvatore.
-Stefan (to Elena): Everything okay?
+Frederick [watching them]: Stefan Salvatore.
+Stefan [to Elena]: Everything okay?
 Elena: Everything's great.
 [She writes him a text message and shows it to him.]
 
-Elena: "That man over there just called me Katherine"
+Elena: That man over there just called me Katherine
 [He walks toward them but they're already gone.]
 
 Salvatore Boarding House
@@ -9961,8 +9961,8 @@ Stefan: It's them. Come here.
 
 [Caroline, Matt, Stefan and Elena are entering the living room.]
 
-Caroline: This is much better than watching Damon visit cougar town. (To Matt.) No offence.
-Matt: Don't remind me. (To Stefan): Man I've always wanted to see what it looks like in this place.
+Caroline: This is much better than watching Damon visit cougar town. [To Matt.] No offence.
+Matt: Don't remind me. [To Stefan]: Man I've always wanted to see what it looks like in this place.
 Stefan: Yeah, I guess it's a bit much.
 Matt: Yeah, my entire house could fit in here. like twice.
 Caroline: Feel like I've been here before. It's weird.
@@ -9988,7 +9988,7 @@ Damon: Oh my goodness.
 
 Damon: That's amazing, you were fast.
 Jenna: That would be my cue.
-Kelly (looking at Damon): You're given up already?
+Kelly [looking at Damon]: You're given up already?
 Jenna: Oh yeah.
 [She leaves the bar.]
 
@@ -10009,16 +10009,16 @@ Caroline: Why would you keep a car that doesn't run?
 Matt: Be more of a girl right now?
 [Caroline laugh.]
 
-Stefan (to Matt): Hey, want to come take a look at this for me?
+Stefan [to Matt]: Hey, want to come take a look at this for me?
 Matt: Elena, remember the old Camaro you're dad used to have?
 Elena: Of course.
 Matt: I built and rebuilt that engine 20 times.
 Stefan: wow.
 Caroline: I don't like sports cars; they're too hard to make out in.
-Matt (looking at Elena): It wasn't that bad.
+Matt [looking at Elena]: It wasn't that bad.
 [Elena and Matt look at each other, uncomfortable. Caroline leaves the garage. Elena goes after her.]
 
-Matt (to Stefan): I'm sorry man.
+Matt [to Stefan]: I'm sorry man.
 Stefan: No, no, no. Don't worry about it. You and Elena, you guys have a history and ignoring it doesn't do anybody any good.
 Matt: She's good with you. You know, I wasn't sure but she's happy and I'm glad.
 [They look at each other.]
@@ -10047,7 +10047,7 @@ Frederick: I'm pretty sure you'd like it.
 
 Jenna: Sorry. That was a seriously lame pick up.
 Frederick: That is a nice scent you wear. What is it?
-Jenna: I don't know (she laughs) it was a gift. And that is a cab so...
+Jenna: I don't know [she laughs] it was a gift. And that is a cab so...
 [She leaves. Frederick looks at her. Bethanne arrives behind him.]
 
 Frederick: Vervain...making it hard to find something to eat in this town.
@@ -10100,7 +10100,7 @@ Jeremy: What's the matter? It's just blood, Anna.
 Anna: What are you doing?
 [Her face changes.]
 
-Jeremy: I knew it. (He shows her his hand) Go for it.
+Jeremy: I knew it. [He shows her his hand] Go for it.
 [She takes his hand and begins to drink. Jenna enters. Jeremy rushes towards her.]
 
 Jeremy: Jenna! Hey, what's up?
@@ -10130,7 +10130,7 @@ Matt: Yeah.
 Salvatore Boarding House
 [Damon and Kelly enter the house. Damon makes a drink, takes a sip, and hands it to Kelly.]
 
-Kelly: Now that you've got me here. (She drinks) What are you gonna do with me?
+Kelly: Now that you've got me here. [She drinks] What are you gonna do with me?
 Damon: I'm going to...going to do this.
 [He kisses her. He pushes her against the wall. They kiss each other. Caroline and Matt enter the house and interrupt them.]
 
@@ -10141,7 +10141,7 @@ Kelly: Oh my god, Matt! Oh my god.
 
 Matt: I got to...
 Caroline: It's fine, just go.
-Elena (to Matt): I'll take her home.
+Elena [to Matt]: I'll take her home.
 Matt: Thanks, man.
 [Matt gives the keys to Stefan and leaves. Caroline, Elena and Stefan look at Damon. He drinks.]
 
@@ -10205,7 +10205,7 @@ Miss Gibbons' Residence
 Pearl: So, where's Bethanne?
 Frederick: She won't be coming back.
 Pearl: What happened? Where is she?
-Frederick: Well, you were right.(He looks at Anna) We shouldn't have left.
+Frederick: Well, you were right.[He looks at Anna] We shouldn't have left.
 Pearl: No. Hungry?
 [Frederick is still looking at Anna. Pearl is pouring blood in a glass. She takes the glass and a wooden spoon. She holds the glass to Frederick and stabs him with the spoon. She puts down the glass and throws the spoon in the sink. She sits down and pours blood in a glass.]
 
@@ -10228,7 +10228,7 @@ Stefan: I had a really nice time too.
 Salvatore Boarding House
 [Damon is dragging Bethanne's body into the fireplace.]
 
-Damon (to Stefan): Could you help me out a little bit?
+Damon [to Stefan]: Could you help me out a little bit?
 Gilbert Residence
 [Jeremy enters his bedroom. Anna's there, Jeremy is scared.]
 
@@ -10258,7 +10258,7 @@ Jeremy: Seriously?
 Anna: First rule about vampires, don't believe anything you read.
 Jeremy: You gotta tell me more. I gotta know.
 Anna: No, you don't. Cause you're not gonna be one.
-Jeremy: Come on, you can't keep saying "no" to me.
+Jeremy: Come on, you can't keep saying no to me.
 Anna: Look, I'm not gonna turn someone who learned everything he knows about vampires from Netflix.
 Jeremy: That's not true, and you know it.
 Anna: Why do you even want this? Give me one good reason.
@@ -10293,7 +10293,7 @@ Salvatore Boarding House
 [Damon boards up the window that Frederick and Beth-Anne broke through. Stefan and Elena watch him.]
 
 Damon: I say we go to Pearl's, bust down the door, and annihilate the idiot that attacked us last night.
-Stefan: Yeah. And then what? We turn to the rest of that house of vampires and say, "Oops. Sorry?"
+Stefan: Yeah. And then what? We turn to the rest of that house of vampires and say, Oops. Sorry?
 Elena: I can't believe you made a deal with her.
 Damon: It was more like a helpful exchange of information. And it's not like I had a choice. She's...scary. Besides, she's gonna help me get Katherine back.
 Elena: Of course she is. Damon gets what he wants, as usual. No matter who he hurts in the process.
@@ -10320,8 +10320,8 @@ Mystic Grill
 Anna: Okay. We have some time. I'm not meeting my mom until later.
 Jeremy: Wait. Does your mom know you're a...
 Anna: The fact that you would even think it's possible to keep something like that a secret from your own family is just further proof that you're not ready.
-Jeremy: "Not ready" Is a step up from "No."
-Anna: And a million steps down from "Maybe." I like your bracelet.
+Jeremy: Not ready Is a step up from No.
+Anna: And a million steps down from Maybe. I like your bracelet.
 Jeremy: Thanks. My sister got it for me.
 Anna: Can I see it?
 Jeremy: Yeah. Yeah.
@@ -10520,7 +10520,7 @@ Damon: Oh, I understand. I understand. He's the reason you live. His love lifts 
 Elena: Can you just not joke around for 2 seconds?
 Damon: I can't protect you, Elena. I don't know how many vampires there are in there. That's how long it takes you to get your head ripped off. I have to be able to get in and get out. I can't be distracted with your safety. Or this will end up a bloodbath that none of us walk away from...Including Stefan. I know. I get it. I understand.
 Alaric: If we're gonna go, let's go.
-Mystic Grill/Caroline's Car
+Mystic Grill and Caroline's Car
 [Matt calls Caroline.]
 
 Matt: Where are you? I can barely hear you.
@@ -10625,7 +10625,7 @@ Pearl: Then stop acting like a child! As soon as Jeremy finds out what you reall
 Anna: He already knows.
 Pearl: What did you just say?
 Anna: Jeremy knows. He likes it. And he likes me.
-[Pearl slaps her. When they are exiting the Grill, Anna she sends Jeremy a text saying "I'll do it."]
+[Pearl slaps her. When they are exiting the Grill, Anna she sends Jeremy a text saying I'll do it.]
 
 Miss Gibbons' Residence
 [Stefan and Harper are still trapped in the cellar.]
@@ -10657,7 +10657,7 @@ Elena: What about you?
 Damon: You rescue, I'll distract. Go.
 [Frederick is getting suspicious. It's too quiet.]
 
-Frederick (motioning to the stereo): Turn that down. It's too quiet.
+Frederick [motioning to the stereo]: Turn that down. It's too quiet.
 [One of the vampires gets staked.]
 
 Frederick: Spread out. Now. You two, back of the house. Go. Check out both rooms. Cellar, now.
@@ -10795,10 +10795,10 @@ Stefan: What you did today, coming to help me...You could have been killed.
 Elena: I know.
 Stefan: And what I did, I'm sorry that...I'm sorry that you had to see it.
 Elena: I've just never...You were like this other person. And it's my fault. I made you...
-Stefan: What? No. no. no. no. You didn't make me do anything. You were saving my life. And I was saving yours. (Stefan caresses her face.) Everything's gonna be okay.
+Stefan: What? No. no. no. no. You didn't make me do anything. You were saving my life. And I was saving yours. [Stefan caresses her face.] Everything's gonna be okay.
 [Elena's phone rings, Elena answers]
 
-Elena (on the phone): Hey, Jer...What--what's going on? Oh, no.
+Elena [on the phone]: Hey, Jer...What--what's going on? Oh, no.
 Donovan Residence
 [Everyone is there. Caroline brings coffee to Matt.]
 
@@ -10821,10 +10821,10 @@ Gilbert Residence
 
 Elena: Jer...Are you okay?
 Jeremy: I'm gonna go get some sleep.
-[Jeremy goes to his room. He pulls out two newspaper articles from the Mystic Falls Courier, one with the title "Unexplained Deaths Stump Authorities", scrunches them rips them up. He then pulls out a copy of the Mystic Falls Courier with a picture of Vicki on it under the headline "Local Girl Survives Animal Attack". He doesn't notice Anna behind him near the window.]
+[Jeremy goes to his room. He pulls out two newspaper articles from the Mystic Falls Courier, one with the title Unexplained Deaths Stump Authorities, scrunches them rips them up. He then pulls out a copy of the Mystic Falls Courier with a picture of Vicki on it under the headline Local Girl Survives Animal Attack. He doesn't notice Anna behind him near the window.]
 
 Anna: What are you doing?
-Jeremy: My...my friend Vicki...She's—She's dead.
+Jeremy: My...my friend Vicki...She's, She's dead.
 Anna: Vicki? The one you thought was a...
 Jeremy: Yep. Turns out she's been dead all along.
 Anna: She's the reason you wanted to turn? You wanted to be with her?
@@ -10881,13 +10881,13 @@ Gilbert Residence
 [Elena is walking out of the house.]
 
 Elena: Come on Jeremy, going to school! Walking out the door now!
-Jenna: Forgot this. (She gives her a thermos.)
+Jenna: Forgot this. [She gives her a thermos.]
 Elena: Thank you.
 [She opens the door, John is here, he was about to knock.]
 
-John (with a smile): Elena!
+John [with a smile]: Elena!
 Elena: Uncle John! Hi.
-John (looking at Jenna): Jenna.
+John [looking at Jenna]: Jenna.
 Jenna: John, you made it.
 John: I said I'll be here before noon.
 [He enters the house.]
@@ -10907,10 +10907,10 @@ Elena: Okay, well, I'm gonna go to school, I'll see you later.
 
 John: So what's up with Jeremy?
 Jenna: He just lost a friend, so try to be sensitive.
-John (laughing): I'm always sensitive.
+John [laughing]: I'm always sensitive.
 Jenna: Right, so really how long are you staying?
 John: Can you at least pretend that you're happy to see me?
-Jenna (joking): Oh my god John! It's so good to see you. How have you been? (She becomes serious again.): No, I can't.
+Jenna [joking]: Oh my god John! It's so good to see you. How have you been? [She becomes serious again.]: No, I can't.
 John: Do you really think that I was just gonna sign the escrow papers and send them back?
 Jenna: Actually I did.
 John: I'm not going to let you sell my brother's office.
@@ -10961,7 +10961,7 @@ John: A hospital blood bank in the neighboring county of Amherst has reported se
 [Mayor Lockwood interrupts him.]
 
 Mayor Lockwood: Okay okay, no need to get alarmed right at this moment.
-Sheriff Forbes (To Damon): Meaning he doesn't want to cancel the Founders' Day Kick-off Party.
+Sheriff Forbes [To Damon]: Meaning he doesn't want to cancel the Founders' Day Kick-off Party.
 John: You think all of your problems are over but I'm here to tell you, nothing's been solved.
 [Damon seems uncomfortable.]
 
@@ -10969,7 +10969,7 @@ Mystic Falls High School
 [Alaric is in his classroom with Elena.]
 
 Alaric: I made a copy of a paper Jeremy wrote for me. I think you should take a look at it.
-[He gives the paper to Elena. She reads the title: "Fact or Fiction: The Truth About Vampires in Mystic Falls".]
+[He gives the paper to Elena. She reads the title: Fact or Fiction: The Truth About Vampires in Mystic Falls.]
 
 Elena: Jeremy wrote this?
 Alaric: He's very clear that he didn't think it was real.
@@ -10992,7 +10992,7 @@ John: Sure you do its tradition.
 Jenna: It will be our role to break the tradition.
 John: The Gilberts have been a part of this town for a hundred and fifty years. We're one of the founding families and with that distinction comes certain obligations including going to the party. One day, when you can appreciate the significance, I'll tell you all about your heritage.
 Jenna: Hmm, the Gilbert family legacy. I forgot how sacred it was. I'm not a Gilbert so I was never cool enough to hear it.
-Jeremy (To John): Why does she hate you?
+Jeremy [To John]: Why does she hate you?
 John: We used to sleep together.
 [Jenna throws a bag at him.]
 
@@ -11026,7 +11026,7 @@ Elena: Oh good you're here.
 Damon: You ask I come. I'm easy like that.
 [Elena points upstairs. Damon sees Jeremy eating in the kitchen.]
 
-Damon (loud): No Elena, I will not go to your bedroom with you.
+Damon [loud]: No Elena, I will not go to your bedroom with you.
 [She catches his arm. He laughs and go upstairs with her. Jeremy looks at them. Elena and Damon enter her bedroom.]
 
 Damon: Ah, just like I remember.
@@ -11058,7 +11058,7 @@ Damon: Well, maybe his problem is that he has spent too long not being himself.
 Elena: Please don't make me sorry for asking you.
 [He takes a picture from the mirror; she tries to take it back but is too slow.]
 
-Damon: It is what it is Elena. The Stefan you know was "good behavior Stefan", ‘reign it in Stefan", "fight against his nature into an annoying excessive level Stefan" but if you think there isn't another part to this then you have not been paying attention.
+Damon: It is what it is Elena. The Stefan you know was good behavior Stefan, reign it in Stefan, fight against his nature into an annoying excessive level Stefan but if you think there isn't another part to this then you have not been paying attention.
 [He pouts at Elena as if ready to kiss her, but instead Elena takes back the picture.]
 
 Elena: He's not you, not even close.
@@ -11188,9 +11188,9 @@ Jenna: How do I look?
 Elena: Beautiful.
 [Alaric rejoins them.]
 
-Alaric (to Jenna): I was looking for you.
+Alaric [to Jenna]: I was looking for you.
 Jenna: Here I am. I haven't seen you in a while.
-Alaric: Well uh...(He looks at Elena) Things have been a little crazy but I'm here now. Do you want to get a drink?
+Alaric: Well uh...[He looks at Elena] Things have been a little crazy but I'm here now. Do you want to get a drink?
 Jenna: Sure.
 Alaric: Okay.
 [They look at Elena and leave. Matt arrives.]
@@ -11208,7 +11208,7 @@ Elena: Matt!
 Damon: You know I love a woman in uniform but I have to side with this one. You look...you look smashing.
 [She laughs.]
 
-Sheriff Forbes: Thank you Damon. Cheers! (They clink glasses.) I needed that. You know I had my doubts about you at first but like everyone else on the council you've won me over.
+Sheriff Forbes: Thank you Damon. Cheers! [They clink glasses.] I needed that. You know I had my doubts about you at first but like everyone else on the council you've won me over.
 Damon: Thanks Liz. It's really nice how welcoming the council has been. I like my life here in Mystic Falls. Starting to feel like home again.
 Sheriff Forbes: Well, you're not gonna like what I have to tell you. Johnathan Gilbert's claims check out. Blood bank, the missing people, all of it's true. We might have a problem.
 [Jeremy arrives and interrupts them.]
@@ -11243,7 +11243,7 @@ Elena: Stefan, it's fine.
 Stefan: Now walk away.
 [He pushes him. The man leaves. Elena touches Stefan's arm.]
 
-Stefan: (He touches Elena's face.) You alright?
+Stefan: [He touches Elena's face.] You alright?
 [Elena nods.]
 
 [Damon is at the bar. Elena joins him.]
@@ -11254,7 +11254,7 @@ Damon: No, I have been too preoccupied with yours.
 
 Damon: Jeremy has been asking questions about Vicki Donovan's death.
 Elena: He knows that her death was ruled an overdose.
-Damon: Really? (Imitating Jeremy.) "Oh but sheriff, someone buried her. Who would do that?" I know I know! Me! I mean I could compel him but he's wearing vervain.
+Damon: Really? [Imitating Jeremy.] Oh but sheriff, someone buried her. Who would do that? I know I know! Me! I mean I could compel him but he's wearing vervain.
 Elena: No, I don't want you to compel him.
 Damon: If he keeps asking questions...
 Elena: Damon, no I'm serious. I'm not going to do that to him again. I'll handle it.
@@ -11268,7 +11268,7 @@ Damon: Okay. Don't say I didn't warn you.
 Tyler: I saw that.
 Kelly: Shh! We'll keep that between you and me. Where is the ladies' room?
 Tyler: This way, I'll show you.
-Kelly (seeing his glass): Is that soda?
+Kelly [seeing his glass]: Is that soda?
 Tyler: Um...
 [She takes his glass and drinks.]
 
@@ -11299,7 +11299,7 @@ Damon: You know that I could rip your throat out before anyone would notice?
 John: Yeah.
 Damon: Yeah, okay. But you probably ingest vervain so...
 John: Why don't you take a bite to find out?
-Damon (smiling): It's not worth my time.
+Damon [smiling]: It's not worth my time.
 [They look at each other and smile. Damon starts to leave but he rushes towards John, breaks his neck, and throws him off the balcony.]
 
 [Jeremy is sitting on a couch in a quiet, dimly-lit room. Elena rejoins him.]
@@ -11309,7 +11309,7 @@ Jeremy: No one is trying to figure out what happened to her. They all want to be
 Elena: The coroner's office confirmed it. If that's what they said happened then...
 Jeremy: Is that what you believe?
 Elena: What do you think happened?
-Jeremy: I think somebody killed her and buried her body and I don't think we should write it off just ‘cause it's easy.
+Jeremy: I think somebody killed her and buried her body and I don't think we should write it off just cause it's easy.
 Elena: They're just doing what they can to move on.
 Jeremy: The truth is the only thing that's gonna help people to move on.
 Elena: Jer, just let it go, okay? Whatever it was she's gone now.
@@ -11364,7 +11364,7 @@ Elena: Oh my god.
 
 Matt: What the hell are you doing man?
 Kelly: Matt?!
-Matt (screaming): Mom!!!!
+Matt [screaming]: Mom!!!!
 Tyler: Whoa dude calm down.
 [Matt punches Tyler in the face. They begin to fight and in the fight Kelly gets pushed to the floor. Tyler hits Matt again and again and again.]
 
@@ -11374,13 +11374,13 @@ Elena: Matt! Stop it! Tyler! Stop it, you're hurting him! Somebody help us.
 Alaric: What the hell is that?
 [Elena is going toward Matt. The Mayor arrives.]
 
-Mayor Lockwood: I'll take it from here; I'll take it from here (To Tyler): Are you hurt? Go get cleaned up. It's okay. Go get cleaned up.
+Mayor Lockwood: I'll take it from here; I'll take it from here [To Tyler]: Are you hurt? Go get cleaned up. It's okay. Go get cleaned up.
 [Tyler leaves.]
 
-Mayor Lockwood (to Alaric): Thank you for your help.
+Mayor Lockwood [to Alaric]: Thank you for your help.
 [Elena helps Matt.]
 
-Mayor Lockwood (to the guests): Everything's fine. Everything is fine. Come on, everybody, back to the party. Let's go. Come on, have a good time!
+Mayor Lockwood [to the guests]: Everything's fine. Everything is fine. Come on, everybody, back to the party. Let's go. Come on, have a good time!
 [Elena is with Matt, he is bleeding a lot.]
 
 Elena: Are you okay?
@@ -11421,7 +11421,7 @@ Mayor Lockwood: Thank you all, thank you very much, thank you. Thank you all for
 Mayor Lockwood: And...and I would like to welcome back one of our town favorite's sons to do the honors of ringing our official charter bell. John Gilbert, would you please join me up here?
 [John Gilbert applause and rejoins the mayor. Damon is looking at him.]
 
-John: One hundred and fifty years of community, prosperity, family. We take care of each other, we look after each other, protect each other (He looks at Damon.) It's good to be home.
+John: One hundred and fifty years of community, prosperity, family. We take care of each other, we look after each other, protect each other [He looks at Damon.] It's good to be home.
 [Everyone applauds, Damon rejoins Alaric.]
 
 Damon: Look at his right hand.
@@ -11450,12 +11450,12 @@ Man: No girl to show off for now? I see what how this is.
 
 Man: What are you, man?
 Gilbert Residence
-[Jeremy goes up the stairs and goes into Elena's bedroom, he looks everywhere but he doesn't find what he is looking for. He finally looks behind the painting and find Elena's diary. He begins to read it. One page contains "But how can I deny it?" and "Bodies drained of blood". Another page contains "Take away Jeremy's pain..." and another "...that Vicki was a monster?"]
+[Jeremy goes up the stairs and goes into Elena's bedroom, he looks everywhere but he doesn't find what he is looking for. He finally looks behind the painting and find Elena's diary. He begins to read it. One page contains But how can I deny it? and Bodies drained of blood. Another page contains Take away Jeremy's pain... and another ...that Vicki was a monster?]
 
 Founders' Hall
 [Stefan is above the man, looking at him. The man is on the floor, unconscious. He leaves at vamp-speed when he hears Elena.]
 
-Elena: Stefan? Stefan? (She sees the man on the ground and runs over to him.) Hey! Are you okay? What happened?
+Elena: Stefan? Stefan? [She sees the man on the ground and runs over to him.] Hey! Are you okay? What happened?
 [The man gets up.]
 
 Man: My arm. I lost my balance and fell. I'm clumsy.
@@ -11472,7 +11472,7 @@ Donovan Residence
 Kelly: What are you doing? Matt don't.
 Matt: I can't do it anymore mom so just go alright? You've done it before. More times than I can count.
 Kelly: I'm not leaving you. Matty!
-Matt (screaming): Mom!!! Don't you get it? I'm better off without you.
+Matt [screaming]: Mom!!! Don't you get it? I'm better off without you.
 [She cries.]
 
 Kelly: No, tonight was...God, I'm so sorry. I know I failed you and I failed Vicki but I won't do it to you again. I promise I'll get it together.
@@ -11487,11 +11487,11 @@ John: I've never liked to be the last one to leave a party. It's too desperate. 
 Alaric: Okay, you obviously know who I am.
 John: I do. Alaric Saltzman, a high school history teacher with a secret.
 Damon: Sure know a lot for someone who just got to town.
-John: More than you can imagine, Damon. My knowledge of this town goes beyond anything that you (He looks at Damon) or you (He looks at Alaric) or the council knows. So, if you're planning on some clever high speed snatch ring vamp kill move, know that if I die, everything I know goes to the council including the fascinating little tale of the originals Salvatore brothers and their present day return to Mystic Falls.
+John: More than you can imagine, Damon. My knowledge of this town goes beyond anything that you [He looks at Damon] or you [He looks at Alaric] or the council knows. So, if you're planning on some clever high speed snatch ring vamp kill move, know that if I die, everything I know goes to the council including the fascinating little tale of the originals Salvatore brothers and their present day return to Mystic Falls.
 [Damon is surprised and doesn't know what to say.]
 
 Alaric: How did you get that ring?
-John: I had inherited one, my brother Gray had the other. This was his (He shows his ring to them) and I wouldn't have given mine to Isobel if I had known she'd hand it over to another guy.
+John: I had inherited one, my brother Gray had the other. This was his [He shows his ring to them] and I wouldn't have given mine to Isobel if I had known she'd hand it over to another guy.
 Damon: So you did know her?
 John: Who do you think send her your way when she wanted to become a vampire?
 Damon: You sent her?
@@ -11572,7 +11572,7 @@ Elena: I'm okay with that.
 [They kiss.]
 
 Stefan: Hey, thank you for helping me get through the rough patch.
-Elena: You're welcome (pause, they look each other). We're gonna be late.
+Elena: You're welcome [pause, they look each other]. We're gonna be late.
 Stefan: Okay, uh, you know what? I'll catch up with you, I'm gonna grab my stuff. I'll be right behind you.
 Elena: Okay.
 [She leaves; he goes to the trunk and opens it. There are a lot of blood bags from Mystic Falls Hospital. He grabs his stuff and closes the trunk.]
@@ -11584,7 +11584,7 @@ Sheriff Forbes: There was a disturbance at the hospital blood bank last night; s
 Damon: Compromised? You mean stolen?
 Sheriff Forbes: We almost missed it. The inventory records were altered but when the night manager was questioned he had no recollection of changing them.
 John: Meaning that the vampire who stole the blood used mind control to hide the theft.
-Damon (looking at John): I know what you meant.
+Damon [looking at John]: I know what you meant.
 Sheriff Forbes: We wouldn't have noticed had John not alerted us to recent discrepancies in other hospital blood banks in the county.
 Damon: How lucky for us, we have John.
 [He looks at John.]
@@ -11622,7 +11622,7 @@ Damon: You're playing house with half of a tomb of really pissed off vampires. W
 Anna: My mom is devastated; they tried to over throw her.
 Damon: Why isn't she here telling me this?
 Anna: She doesn't really do apologies.
-Damon: Well, it's a coincidence, ‘cause I don't do forgiveness. Just run along. And if you're going continue playing house with these little vampires pets, you might wanna stop robbing the blood bank dry because they're onto it.
+Damon: Well, it's a coincidence, cause I don't do forgiveness. Just run along. And if you're going continue playing house with these little vampires pets, you might wanna stop robbing the blood bank dry because they're onto it.
 Anna: I haven't been to the local blood bank in at least a week.
 Damon: Then it's one of your others.
 Anna: The others are gone, Damon.
@@ -11681,7 +11681,7 @@ Damon: You're lying!
 Stefan: Believe what you want.
 [Stefan leaves, Damon seems suspicious.]
 
-Gilbert Residence/Salvatore Boarding House
+Gilbert Residence and Salvatore Boarding House
 [Elena is in the kitchen. She opens the fridge and takes a bottle of water. She's on the phone with Stefan.]
 
 Elena: I'm sorry for the short notice; I didn't even know that the contest was coming up much less that I would be in it.
@@ -11756,7 +11756,7 @@ Damon: Go for it! I'll kill every last one of them. Then I'll sever your hand, p
 Mystic Falls High School
 [Carol Lockwood is teaching dance moves to the girls who are in the Mystic Falls pageant and their partners.]
 
-Carol: Honor your partner. Stay focus, right hand around. Flirt with your eyes (Elena and Stefan are laughing) Left hand around.
+Carol: Honor your partner. Stay focus, right hand around. Flirt with your eyes [Elena and Stefan are laughing] Left hand around.
 Elena: This is ridiculous.
 Carol: Both hands.
 Stefan: You're only saying that because you don't know how to do it.
@@ -11778,7 +11778,7 @@ Stefan: Oh, no touching!
 
 [Meanwhile, Caroline is in the hallway with Bonnie.]
 
-Caroline: The Fell cousins don't have a shot and Amber Bradley is only on the court so the pageant doesn't look like its founding families only—which of course it is. So that leaves Elena which totally has the sympathy vote since her parents died. How can I compete with that?
+Caroline: The Fell cousins don't have a shot and Amber Bradley is only on the court so the pageant doesn't look like its founding families only, which of course it is. So that leaves Elena which totally has the sympathy vote since her parents died. How can I compete with that?
 Bonnie: Very nice, very sensitive.
 Caroline: Oh I'm sorry, this must sound really unimportant. In light of everything.
 Bonnie: It's okay, I get it, you want to win.
@@ -11884,7 +11884,7 @@ John: Crazy ramblings of a mad man, of course.
 John: She's very pretty.
 [She looks at him and leaves.]
 
-Jeremy: Yeah—uh—she's a friend of mine. Excuse me.
+Jeremy: Yeah, uh, she's a friend of mine. Excuse me.
 [He leaves.]
 
 [Elena enters a room to put her dress on. Amber is already here, she's nervous.]
@@ -11931,7 +11931,7 @@ Elena: This is all my fault; I'm the one who fed him the blood in the first plac
 
 Stefan: What's going on in here?
 Damon: I was just filling Elena on your extra-curricular activities.
-Stefan (laughing): What are you talking about?
+Stefan [laughing]: What are you talking about?
 Elena: I know about the blood, Stefan.
 Damon: I'm uh - I'll be downstairs, drinking.
 [He leaves. Stefan smiles.]
@@ -11943,7 +11943,7 @@ Elena: It's changing you.
 Stefan: Why? Because I kept it a secret from you? Come on Elena, look, giving the way you're reacting right now, can you really blame me for doing that?
 Elena: Are you hearing yourself right now? You've been stealing blood and lying and you say that everything's fine? Everything's not fine, Stefan!
 Stefan: So what - so you and Damon all of a sudden have everything figured out then?
-Elena: It‘s not about Damon. It's about what's happening to you.
+Elena: Its not about Damon. It's about what's happening to you.
 Stefan: I know and I'm telling you that I'm fine. I'm fine. Please, come on. Elena I thought you...I thought you believed in me.
 [Someone is knocking on the door. It's Carole Lockwood.]
 
@@ -11963,7 +11963,7 @@ Mayor Lockwood: Miss Tina Fell, escorted by Bartholomew Whitmore.
 [Tina goes down the stairs. Upstairs Caroline and Elena are waiting.]
 
 Carol: Has anyone seen Amber?
-Elena (looking if she sees Stefan downstairs): Do you see Stefan down there?
+Elena [looking if she sees Stefan downstairs]: Do you see Stefan down there?
 [Caroline look above the balcony.]
 
 Caroline: Nope, just my boring fill in escort.
@@ -12013,16 +12013,16 @@ Stefan: I'm not sad. I'm freaking hungry!
 Mayor Lockwood: Miss Elena Gilbert, escorted by Mister Stefan Salvatore.
 [Damon looks for Stefan. Elena goes down the stairs and looks for Stefan but she doesn't see him. Damon takes Stefan's place to escort Elena. She smiles and rejoins him.]
 
-Elena: (whispering) Where is Stefan?
-Damon: (whispering) I don't know.
+Elena: [whispering] Where is Stefan?
+Damon: [whispering] I don't know.
 [He takes her hand and they rejoins the others girls and their escorts outside. They pass by Jenna and Alaric.]
 
-Jenna: (to Alaric) What is she doing with Damon?
+Jenna: [to Alaric] What is she doing with Damon?
 Alaric: I have no idea.
 [The couples take their positions for the dance. They bow and curtsey to their respective partner.]
 
-Elena: (whispering) What are we gonna do?
-Damon: (whispering) Right now, we just have to get through this.
+Elena: [whispering] What are we gonna do?
+Damon: [whispering] Right now, we just have to get through this.
 [The girls and their escorts begin to dance. Elena and Damon dance, they look at each other and smile. The dance ends.]
 
 [Stefan is still in the parking lot with Amber.]
@@ -12039,7 +12039,7 @@ Stefan: Under your skin, pulsating, floating.
 
 Stefan: Your carotid artery right here. If you puncture this just right you can control the blood flow. It takes practice but it doesn't have to make a mess, you don't have to waste any.
 Amber: What's stopping you?
-Stefan (still touching amber's face): If I do this, if I give in, there's no going back.
+Stefan [still touching amber's face]: If I do this, if I give in, there's no going back.
 Amber: Then don't.
 Stefan: I just want one taste; that's all I need, I just want one taste.
 [His face changes.]
@@ -12116,7 +12116,7 @@ Damon: It's okay. Stefan.
 
 Sheriff Forbes: She doesn't remember what happened.
 Damon: It's a good thing the girls got here when they did, she lost a lot of blood.
-Sheriff Forbes (to Bonnie and Elena): You didn't see anything?
+Sheriff Forbes [to Bonnie and Elena]: You didn't see anything?
 [Long pause, Elena and Damon look at Bonnie.]
 
 Elena: No, we just found her and then called Damon.
@@ -12149,7 +12149,7 @@ John: What's her story?
 Jenna: Why so nosy?
 John: I'm just curious; he really seems to like her.
 Jenna: She's new in town, I think. She and her mom Pearl, the family who you're so rudely trying to prevent from buying Grayson's building.
-John (looking at Anna and Jeremy): Her mother's name is Pearl?
+John [looking at Anna and Jeremy]: Her mother's name is Pearl?
 Jenna: Yes, so?
 John: Well, I believe I already know all about her.
 [Alaric goes out, Elena is waiting for him.]
@@ -12167,7 +12167,7 @@ Anna: We're here to talk.
 
 Damon: Not in the mood, today's been a no good, very bad day.
 Pearl: Annabelle tells me you're looking for something I took from Jonathan Gilbert.
-Damon: I‘m listening.
+Damon: Im listening.
 [She gives him the device.]
 
 Damon: What is it?
@@ -12200,7 +12200,7 @@ Stefan: Why would you risk it? Why would you come here?
 Elena: Because I did this, this is my fault; I'm the one who made you drink the blood.
 Stefan: All you did was expose me to who I really am.
 Elena: This isn't you.
-Stefan (screaming): Stop saying that!!!
+Stefan [screaming]: Stop saying that!!!
 [She starts walking towards him.]
 
 Stefan: Don't get any closer to me.
@@ -12238,7 +12238,7 @@ Woods 1864
 [In a flashback, the town is capturing vampires.]
 
 Man: We have to get to the church. They're waiting.
-Stefan (to Damon): Circle around that way. I'll distract them. Go. (To the group of men.) Over here! There's another one! Quick! Help me!
+Stefan [to Damon]: Circle around that way. I'll distract them. Go. [To the group of men.] Over here! There's another one! Quick! Help me!
 Johnathan: Arm yourselves.
 [The men follow Stefan. Only one man is standing guard over the carriage containing the vampires. Damon hits him and knocks him out. Stefan returns. Damon grabs the keys out of the man's pocket and unlocks the carriage.]
 
@@ -12254,12 +12254,12 @@ Men: Come on. Let's go.
 Stefan: Uhh!
 [Stefan runs and grabs a gun, but he is shot down too.]
 
-Salvatore Boarding House/Woods 1864
+Salvatore Boarding House and Woods 1864
 [Stefan is drifting in and out between the present and past.]
 
 Damon: Stefan. Stefan.
 Elena: Stefan.
-Katherine/Elena: I love you, Stefan.
+Katherine and Elena: I love you, Stefan.
 [Katherine is taken back into the carriage in the past. Damon leads Elena out in the present. She looks through the bars at him.]
 
 Salvatore Boarding House
@@ -12322,7 +12322,7 @@ Jeremy: It's awesome. It's awesome.
 Salvatore Boarding House
 [Damon brings a bottle of blood for Stefan.]
 
-Damon: Brought you something to eat...100% Stefan diet approved. You know what will happen if you don't eat. You'll get all rotting and crusty.
+Damon: Brought you something to eat...100 percent Stefan diet approved. You know what will happen if you don't eat. You'll get all rotting and crusty.
 Stefan: I'm not hungry.
 Damon: Of course you are. We're eternally hungry. Take it. The human blood should be gone by now. You want to explain why you're still in here. Feeling sorry for yourself? Come on. Drink up. Fine. Starve. What do I care?
 [Damon enters the living room. His phone rings.]
@@ -12348,7 +12348,7 @@ Damon: Hold on.
 
 Damon: What?
 Elena: I'm just grabbing some clothes, and then I'll be right over. How's Stefan?
-Damon: Extra broody. Hold on. (He goes back to Alaric.) You drive. Pick me up in an hour.
+Damon: Extra broody. Hold on. [He goes back to Alaric.] You drive. Pick me up in an hour.
 Alaric: Done.
 [Damon hangs up. He goes back to talking to Elena on the phone.]
 
@@ -12359,7 +12359,7 @@ Elena: Type of animal blood that he prefers?
 Damon: Ew. Gross.
 Elena: Heh. Your joking doesn't help.
 Damon: Helps me. Now, hurry up. I can't baby-sit all night. I have things to do.
-Elena: I would say, "drop dead," but...
+Elena: I would say, drop dead, but...
 Damon: Ha ha. Stefan likes...Puppy blood...Little golden retriever puppies with cute, floppy ears. That's his favorite.
 Gilbert Residence
 [Elena hangs up on Damon, scoffing at him. She closes her closet door and John is standing behind it.]
@@ -12500,7 +12500,7 @@ Stefan: You're taking a stupid risk. I could hurt you.
 Elena: Then I'm stupid. You need to drink this.
 Stefan: Elena, get out of here, or you'll regret it.
 Elena: Drink.
-Stefan: (Shouting.) I said get out!
+Stefan: [Shouting.] I said get out!
 [He knocks the bottle of blood from her hand. His face transformed.]
 
 Elena: No.
@@ -12533,7 +12533,7 @@ Damon: Am I gonna...answer that?
 Henry: What's going on?
 [Henry senses a trap and runs at Alaric. Damon grabs him. Alaric stabs him with a stake.]
 
-Damon: "Let's not not kill anyone tonight." Your words. Just pointing that out.
+Damon: Let's not not kill anyone tonight. Your words. Just pointing that out.
 Mystic Grill
 [John returns to the table.]
 
@@ -12636,7 +12636,7 @@ Elena: Were you expecting anything else?
 Damon: No. Ahh.
 [Damon picks up Elena's legs and sits down on the couch. He places her legs over his lap.]
 
-Elena: So, how was the "errand"?
+Elena: So, how was the errand?
 Damon: Futile. Although, I think I witnessed the teacher having an existential crisis. Has Stefan eaten yet?
 Elena: I thought you didn't care.
 Damon: Chalk it up to morbid curiosity.
@@ -12812,7 +12812,7 @@ Isobel: I want you to arrange for a meeting with us.
 [Alaric looks at the paper.]
 
 Alaric: You want me to deliver a message?
-Isobel (smiles): Yeah.
+Isobel [smiles]: Yeah.
 [Alaric throws the paper.]
 
 Alaric: Screw you. You selfish bitch.
@@ -12838,7 +12838,7 @@ Damon: Oh, him? Oh, he's...he's terrible.
 Elena: What's the matter?
 Damon: He's just back to boring, straight-laced, off the junk. You've successfully cured him of anything that was interesting about his personality.
 Elena: Don't forget who helped me.
-Damon: I hate myself. (smiles) Did Uncle John mention anything to you about my field trip with the history teacher?
+Damon: I hate myself. [smiles] Did Uncle John mention anything to you about my field trip with the history teacher?
 Elena: No. I'm still been avoiding him. Why? What's he up to?
 Damon: I don't know. But I'd love if you could find out for me.
 Elena: I've got to go I'm late.
@@ -12858,10 +12858,10 @@ Alaric: So these are the specs for the History department. For the Founders' Day
 Tyler: By whom?
 Alaric: By me. I've seen your sketches and they're good.
 Tyler: I'm not really into the...
-Alaric: Well, you just pick your team, be creative and...(He sees Elena and Stefan) Don't screw up.
+Alaric: Well, you just pick your team, be creative and...[He sees Elena and Stefan] Don't screw up.
 [Alaric is going towards Elena and Stefan.]
 
-Tyler: Great! (To Matt): You want to help me out with this?
+Tyler: Great! [To Matt]: You want to help me out with this?
 Matt: Not really, no.
 Elena: Hey Mr. Saltzman.
 Alaric: Come with me. We need to talk.
@@ -12869,9 +12869,9 @@ Alaric: Come with me. We need to talk.
 
 Bonnie: Alright, show me.
 Caroline: Let's reference last years Miss Mystic float.
-[She types "Mystic Falls Founders' Day" into Bing on her computer.]
+[She types Mystic Falls Founders' Day into Bing on her computer.]
 
-Caroline: This is what they did last year (She turns her computer and shows a picture to Bonnie) and this is exactly what we don't want to do.
+Caroline: This is what they did last year [She turns her computer and shows a picture to Bonnie] and this is exactly what we don't want to do.
 Bonnie: Ew. Okay! So, what are we doing?
 Caroline: Southern classic elegance.
 Bonnie: Gone with the Wind?
@@ -12902,13 +12902,13 @@ Damon: Isobel is here? [Alaric nods] In town?
 [He turns to Elena and looks at her.]
 
 Isobel's Residence
-[John drives his car towards the house. There is a sign reading "Ulisky Realty FOR SALE Foreclosure Open House" out the front. He parks his car and enters in the house. He's going into a room. A man and a woman are dancing. Isobel is watching them.]
+[John drives his car towards the house. There is a sign reading Ulisky Realty FOR SALE Foreclosure Open House out the front. He parks his car and enters in the house. He's going into a room. A man and a woman are dancing. Isobel is watching them.]
 
 Isobel: You're late.
 John: I didn't realize there was a schedule. What's with the side show?
 Isobel: Cherie is a little jazz singer that I picked up in a blues bar in Brooklyn. And I got the cowboy at a gay rodeo in Amarillo.
 John: He's gay?
-Isobel: Not right now, he's very good to me. (To the men and the women) Hey Cherie? Cassez vous!
+Isobel: Not right now, he's very good to me. [To the men and the women] Hey Cherie? Cassez vous!
 [They leave.]
 
 Isobel: I'm teaching them French. Oh! I can smell the judgment coming off of you.
@@ -12944,7 +12944,7 @@ Elena: She wants to see me, Damon.
 [He looks at her.]
 
 Stefan: Alaric is supposed to arrange a meeting. We don't know why or what she wants.
-Damon (still looking at Elena): You don't have to see her if you don't want to.
+Damon [still looking at Elena]: You don't have to see her if you don't want to.
 [Stefan, confused by this sudden sensitivity, looks at Damon and then at Elena.]
 
 Elena: I don't really have a choice.
@@ -12960,7 +12960,7 @@ Elena: Can you hear me? Thanks for coming, I'm nervous.
 [Stefan smiles at her.]
 
 Elena: I'm happy that you're here. I love you.
-[Stefan moves his lips and tells her "I love you". Isobel arrives and sits down with her.]
+[Stefan moves his lips and tells her I love you. Isobel arrives and sits down with her.]
 
 Isobel: Hello Elena. You look just like her, that's eerie.
 Elena: You've met Katherine?
@@ -12988,7 +12988,7 @@ Alaric: No, Isobel made it clear we're not to step a foot inside.
 Damon: I'm not going to kill her in a crowded restaurant.
 Alaric: You're not going to kill her period!
 Damon: She ruined your life and you still want to protect her?
-Alaric: She's my wife. (Damon looks at him) Was my wife. I looked for the woman I married but she wasn't there. Whoever that is, she's cold and detached.
+Alaric: She's my wife. [Damon looks at him] Was my wife. I looked for the woman I married but she wasn't there. Whoever that is, she's cold and detached.
 Damon: Yeah, she's given up her humanity.
 Alaric: Yeah, see, I don't get that. Stefan has his humanity, he's a good guy. And you're a dick and you kill people but I still see something human in you. But with her there was...nothing.
 Damon: You can turn it off, like a button you can press. I mean, Stefan's different. He wants the whole human experience. He wants to feel every episode of How I Met Your Mother, so he shuts his feelings out. The problem is, as a vampire, your instinct is not to feel. Isobel chose the easier road - no guilt, no shame, no regret. I mean, come on, if you could turn it off, wouldn't you?
@@ -13003,11 +13003,11 @@ Isobel: I used to spend a lot of time here when I was younger. John had a crush 
 Elena: So what made you want to be one?
 Isobel: It's a very long list of reasons, Elena. All of which I'm sure you've thought about.
 Elena: No.
-Isobel: That was your first lie. It's inevitable, you're going to get old, Stefan won't. (Elena looks at Stefan. He seems sad). Forever doesn't last very long when you're human.
+Isobel: That was your first lie. It's inevitable, you're going to get old, Stefan won't. [Elena looks at Stefan. He seems sad]. Forever doesn't last very long when you're human.
 Elena: I'm sorry but I don't have what you're looking for.
 [She gets up but Isobel catches her arm and forces her to sit down.]
 
-Isobel: Sit down (Stefan is going towards them) and tell your boyfriend to walk away. I want the invention.
+Isobel: Sit down [Stefan is going towards them] and tell your boyfriend to walk away. I want the invention.
 Elena: I don't have it.
 Isobel: I know that but Damon does and you're going get it for me.
 Elena: He's not going to give it to me.
@@ -13052,7 +13052,7 @@ Damon: Oh Oh Cherie, you won again. I hope I'm wearing my good underwear.
 Isobel: And it's just one blast from the past after another. No, no, no.
 [Damon closes his fly.]
 
-Isobel: Dégage, Cherie.
+Isobel: Degage, Cherie.
 [Cherie gets up and leaves the room.]
 
 Damon: It's good to see you, Isobel. I was just having fun with your naughty little minion.
@@ -13061,8 +13061,8 @@ Isobel: How did you find me?
 
 Damon: Searched all the neighborhood bank-owned foreclosures and found the most expensive one.
 Isobel: Oh I should have known. You're the one who taught me that. What are you really doing here?
-Damon: Well you caused quite a stir, you blew into town. Saw everyone except for the man who made you. I'm a little hurt. (leans in towards her.)
-Isobel: I'm so sorry. (She twists Damon's head around at vamp-speed) Did you bring the device? (He disengages at vamp-speed.)
+Damon: Well you caused quite a stir, you blew into town. Saw everyone except for the man who made you. I'm a little hurt. [leans in towards her.]
+Isobel: I'm so sorry. [She twists Damon's head around at vamp-speed] Did you bring the device? [He disengages at vamp-speed.]
 Damon: Heh. Ow. What are you doing with John Gilbert?
 Isobel: We dated a few times when we were young. He was a little bit in love with me.
 Damon: I'm sure. One of the many. Now, this little invention what do you want with it?
@@ -13076,10 +13076,10 @@ Isobel: Katherine's. She wants John Gilbert to have the device and I think that 
 Damon: Why are you doing her dirty work?
 Isobel: Don't kill the messenger. We both know that you can't control Katherine. She does what she wants.
 Damon: So do I.
-Isobel: Oh really Damon? You do? (comes in close to him) What should we do now? (they laugh.)
+Isobel: Oh really Damon? You do? [comes in close to him] What should we do now? [they laugh.]
 [They begin to kiss each other. They fall vamp-speed on the sofa. Damon slams her on the floor at vamp-speed and holds her throat down to the floor.]
 
-Damon: Now that I have your attention, listen up. You do not come into my town; threaten the people I care about. Going after Elena? Bad move. You leave her alone or I will rip you to bits because I do believe in killing the messenger. You know why? Because it sends a message. (He slams her head against the floor.) Katherine wants something from me? You tell that little bitch to come get it herself.
+Damon: Now that I have your attention, listen up. You do not come into my town; threaten the people I care about. Going after Elena? Bad move. You leave her alone or I will rip you to bits because I do believe in killing the messenger. You know why? Because it sends a message. [He slams her head against the floor.] Katherine wants something from me? You tell that little bitch to come get it herself.
 Gilbert Residence
 [Elena is going down the stairs. Someone is knocking on the door. She opens the door. It's Bonnie.]
 
@@ -13096,7 +13096,7 @@ Tyler: Hey man. So Caroline tells me you've been on your own for the past two we
 Matt: You're asking me about my mom. Seriously? Look, man, why don't I just give tell her to give you a call when she comes back to town?
 Tyler: Dude, that's not what I meant okay? I'm just trying to...I don't know what to say.
 Matt: Good men, don't say anything. You're a dick, end of the story.
-Tyler: I know. (Matt leaves.) Yeah, whatever.
+Tyler: I know. [Matt leaves.] Yeah, whatever.
 [In a classroom, Bonnie is leafing through Emily's spell book. Elena enters the room.]
 
 Bonnie: Hey! Thanks for meeting me. I wanted you to see this.
@@ -13130,7 +13130,7 @@ Jeremy: We're more than friends. Look, something could be seriously wrong and if
 Elena: I haven't talked to her, Jer.
 Jeremy: Are you lying to me right now?
 Elena: Why do you say that?
-Jeremy: ‘Cause that's what you do. Lying. You lie about everything. I know what Anna is and I know that you know. So tell me, do you have any idea where she is?
+Jeremy: Cause that's what you do. Lying. You lie about everything. I know what Anna is and I know that you know. So tell me, do you have any idea where she is?
 Elena: No, but Jer...Jeremy wait! Jeremy!
 [She turns around and Isobel is standing right behind her.]
 
@@ -13208,7 +13208,7 @@ Isobel: That gaudy ring on your finger comes off.
 John: Come on Isobel, I know you okay? It's me John. You can't hurt a kid.
 Isobel: I'll kill him to prove you wrong.
 John: Really? Are you that far gone? Look, I know you've changed but the old Isobel is somewhere in there, isn't she? Come on let him go.
-Isobel (to her minions): Faites le souffrir.
+Isobel [to her minions]: Faites le souffrir.
 [Cherie and Frank beat him and throw him on the floor. Isobel catches his hand and removes his ring.]
 
 Isobel: Nice try. We'll see how you do without this.
@@ -13234,18 +13234,18 @@ Bonnie: I can remove the original spell.
 Elena: John and Isobel will never know.
 Damon: No, I'll get Jeremy in my own way.
 Stefan: Really? How are you going to do that? Because Isobel is a vampire and Jeremy could be dead the second you walk in the door.
-Damon (to Bonnie): Are you even up for this? I mean no offense, you're no Emily Bennett. Emily knew what she was doing.
+Damon [to Bonnie]: Are you even up for this? I mean no offense, you're no Emily Bennett. Emily knew what she was doing.
 Bonnie: I've been practicing.
 Damon: It's not piano lessons, honey.
 Bonnie: What's your favorite book?
 Damon: What?
 Bonnie: Name a book, any book.
-Damon: Name a book...How about "Call of the wild", Jack London?
+Damon: Name a book...How about Call of the wild, Jack London?
 [Bonnie turns and looks at the library. A book flies and lands in Damon's hands. Damon looks at the book.]
 
 Damon: Jack London. Great parlor trick.
 Elena: We're doing this, Damon. And we're doing it my way. Now give me the device. We're wasting time!
-Damon (To Bonnie): I don't trust you, I tried to kill you.
+Damon [To Bonnie]: I don't trust you, I tried to kill you.
 Bonnie: You're right, you can't trust me.
 Elena: But you can trust me.
 [Damon looks at her. Stefan looks at them. Damon gives her the device. Stefan looks at him.]
@@ -13254,7 +13254,7 @@ Elena: Thank you.
 Isobel's Residence
 [John is lying on the ground. Jeremy comes towards him with a towel.]
 
-Jeremy: Here you go .(He gives him the towel.)
+Jeremy: Here you go .[He gives him the towel.]
 John: Thank you.
 Jeremy: What is she after?
 John: Your ancestor invented a weapon, a device that's extremely harmful to vampires and we've been trying to get it.
@@ -13309,7 +13309,7 @@ Elena: But you took a risk with Damon. How did you know that he was gonna give i
 Isobel: Because he's in love with you.
 [Damon looks at Stefan, he looks uncomfortable. Stefan seems upset. Elena gives the device to Isobel.]
 
-Elena (long pause): Thank you.
+Elena [long pause]: Thank you.
 Isobel: For what?
 Elena: For being such a monumental disappointment. It keeps the memory of my real mother perfectly intact.
 Isobel: Goodbye, Elena. As long as you have a Salvatore on each arm, you're doomed. Katherine was smart. She got out. But we all know that you're not Katherine.
@@ -13344,7 +13344,7 @@ Alaric: You couldn't be bothered the first time so why now?
 Isobel: You hate me. Good.
 Alaric: Does that make it easier for you? I mean what is the whole point of this exercise?
 Isobel: What did you expect? You spent all this time trying to track me down. What did you think you would find?
-Alaric: The woman who gave me this (He shows her the ring). I mean you act like you don't care but you care enough to protect me after you left.
+Alaric: The woman who gave me this [He shows her the ring]. I mean you act like you don't care but you care enough to protect me after you left.
 Isobel: I was a different person back then.
 Alaric: Right! And that person is gone. The woman that I married, the woman I loved, she's just...she's gone.
 [He removes his ring and throws it to her.]
@@ -13366,7 +13366,7 @@ Gilbert Residence
 [Jeremy is going to bed. Anna appears.]
 
 Jeremy: Anna? What are you doing here?
-Anna (crying): My mother. She's dead.
+Anna [crying]: My mother. She's dead.
 Jeremy: What?
 Anna: She was killed.
 Jeremy: Oh, my god, Anna. Hey, I'm so sorry.
@@ -13435,7 +13435,7 @@ Bonnie: To Elena. I pretended to do something I didn't really do.
 Caroline: What are you talking about?
 Bonnie: I couldn't do what she wanted me to do. It wasn't right. Grams would have never done it, so I couldn't either. But when Elena finds out, she's never gonna forgive me.
 
-Gilbert Residence/Salvatore Boarding House
+Gilbert Residence and Salvatore Boarding House
 [Elena and Stefan are getting dressed the for Founders' Day Parade. She puts her necklace on as Jenna helps Elena get into her dress.]
 
 Elena: Ouch, this dress hurts.
@@ -13451,7 +13451,7 @@ Damon: Look at you, all retro.
 Stefan: What are you doing here?
 Damon: Why wouldn't I be here? Bonnie deactivated the Gilbert invention, Isobel is gone and it's Founders' Day! I'm here to eat cotton candy and steal your girl.
 Stefan: Don't start with me, Damon.
-Damon: Oh, you started this Stefan with that whole "I'm insecure, leave Elena alone" speech. I'm enjoying that.
+Damon: Oh, you started this Stefan with that whole I'm insecure, leave Elena alone speech. I'm enjoying that.
 Stefan: As long as you heard it.
 Damon: What? You have no sense of humor, Stefan.
 Stefan: Actually I've no sense of 'Damon humor'.
@@ -13492,7 +13492,7 @@ Elena: John?! Is that even possible?
 Stefan: There is no proof, but he dated Isobel when she was a teenager and he was the one who brought her to your dad's office for the delivery.
 Elena: My whole life I've never liked this man. I...
 Stefan: Sorry, I'm sorry. I just...I wanted to tell you before Damon dropped it on you on some typically inappropriate way.
-Elena: No, I'm happy that you told me, I just...I really hope that it's not true. What I am supposed to do? Do I just...confront him and say "are you my biological father?"
+Elena: No, I'm happy that you told me, I just...I really hope that it's not true. What I am supposed to do? Do I just...confront him and say are you my biological father?
 Stefan: I guess, when you're ready.
 Elena: I'm never gonna be ready. Stefan, I have enough problems with the family that I actually care about. Jeremy hates me, and why wouldn't he? My journal gave him every single reason to.
 Stefan: He's just hurt, he's confused.
@@ -13501,7 +13501,7 @@ Stefan: He's your brother, he'll forgive you. Just give him some time.
 [Caroline is taking pictures with Matt before the Founders' Day Parade, in their Civil War costumes.]
 
 Bonnie: Say cheese!
-Caroline (to Matt): Oh wait! Hide your cast, it's not era-appropriate!
+Caroline [to Matt]: Oh wait! Hide your cast, it's not era-appropriate!
 Matt: Seriously?
 Caroline: Yes!
 Matt: Okay, fine.
@@ -13598,7 +13598,7 @@ Damon: Did he mention something to you too?
 Elena: No, did he mention something to you?
 Damon: No, nothing worth repeating.
 Elena: So, I think you should stop with the flirty little comments and that eye-thing that you do.
-Damon (smiling and doing the eye-thing): What eye thing?
+Damon [smiling and doing the eye-thing]: What eye thing?
 Elena: Don't make me regret being your friend okay?
 [He seems hurt. Elena looks at Jeremy who's sitting alone. She goes towards Jeremy. Damon looks at them.]
 
@@ -13609,10 +13609,10 @@ Jeremy: You go to hell, Elena.
 Town Square
 [Jeremy is walking, and Damon appears walking behind him.]
 
-Damon (mocking Jeremy): "I have so many emotions, but I don't have any way to express them. Being a teenager is so hard!"
+Damon [mocking Jeremy]: I have so many emotions, but I don't have any way to express them. Being a teenager is so hard!
 Jeremy: You're a dick!
-Damon: You do not talk to me like that! I'm not your sister. And for now on, (Damon grabs Jeremy's arm) don't talk to your sister that way either.
-Jeremy: So, you're going to kill me just ‘cause I hurt Elena's feelings?
+Damon: You do not talk to me like that! I'm not your sister. And for now on, [Damon grabs Jeremy's arm] don't talk to your sister that way either.
+Jeremy: So, you're going to kill me just cause I hurt Elena's feelings?
 Damon: Cut her some slack.
 Jeremy: She erased my memories.
 Damon: No, I did! She was protecting you.
@@ -13628,7 +13628,7 @@ Stefan: Let him go.
 
 Stefan: Are you alright?
 Jeremy: Yeah.
-Stefan (looking at Damon): What my brother is trying to say is, don't blame Elena for this. Damon turned Vicki, I killed her. She was a threat to you, and she was a threat to your sister. I'm sorry that it happened, I wish that it hadn't.
+Stefan [looking at Damon]: What my brother is trying to say is, don't blame Elena for this. Damon turned Vicki, I killed her. She was a threat to you, and she was a threat to your sister. I'm sorry that it happened, I wish that it hadn't.
 [Damon looks at Stefan.]
 
 Jeremy: You shouldn't have made me forget...
@@ -13638,7 +13638,7 @@ Damon: Good cop, bad cop. I like it.
 Stefan: What are you doing?
 Damon: He's being a punk.
 Stefan: Elena's relationship with her brother is none of your business. So stay out of it!
-Damon: Oh, there's only one "do-gooder" role available. My bad. I'm sorry.
+Damon: Oh, there's only one do-gooder role available. My bad. I'm sorry.
 [He laughs.]
 
 Stefan: Get over yourself. We both know you're not doing this for the right reasons.
@@ -13699,7 +13699,7 @@ Alaric: Yeah, got it.
 [Alaric leaves, Damon sees Stefan and Elena. He goes toward them and takes Elena's hand.]
 
 Elena: What are you doing?
-Damon: Saving your life. Fifteen words or less...Tomb vamps are here. Founding families are their target. (To Stefan) Get her out of here, now!
+Damon: Saving your life. Fifteen words or less...Tomb vamps are here. Founding families are their target. [To Stefan] Get her out of here, now!
 [Damon starts to leave.]
 
 Stefan: Wait, where are you going?
@@ -13757,7 +13757,7 @@ Town Square
 Mayor Lockwood: Enjoy the show!
 [The firework starts. Mayor Lockwood and his wife start to leave.]
 
-Mayor Lockwood (to his wife): Stay close.
+Mayor Lockwood [to his wife]: Stay close.
 [Tomb vampires are following them. Bonnie runs into one of them.]
 
 Vampire leader: Excuse me, I'm sorry.
@@ -13826,7 +13826,7 @@ Mystic Grill
 Anna: Ahhhhhhhh my head!
 [She screams. One of the deputy enters.]
 
-Deputy (into the radio): I got one.
+Deputy [into the radio]: I got one.
 [They inject her with vervain, the other holds Jeremy.]
 
 Jeremy: Hey, what are you doing? What are you doing? Hey, leave her alone!
@@ -13842,7 +13842,7 @@ John: The device is done; the only thing keeping them down is vervain. We don't 
 John: Anna.
 [Damon turns his head and looks at them.]
 
-John (to the Deputy): You can head up; I'll take it from here.
+John [to the Deputy]: You can head up; I'll take it from here.
 [The Deputy leaves, Anna tries to get up, Damon is still looking at them. John takes a stake from his back.]
 
 Anna: Please...no!
@@ -14072,7 +14072,7 @@ Damon: Nah, it's reserved for my brother, and you...and Bonnie...who, even thoug
 Elena: Why do you sound so surprised?
 Damon: Because she did it for you. Which means that somewhere along the way, you decided that I was worth saving. And I wanted to thank you for that.
 Elena: You're welcome.
-[He kisses her on the cheek; they look at each other. He hesitates and then he kisses her she pulls away slightly and then Damon grabs "Elena" and they kiss passionately for a few seconds until Jenna opens the door and interrupts them. They stop and Damon tries to hide himself.]
+[He kisses her on the cheek; they look at each other. He hesitates and then he kisses her she pulls away slightly and then Damon grabs Elena and they kiss passionately for a few seconds until Jenna opens the door and interrupts them. They stop and Damon tries to hide himself.]
 
 Elena: Hi...
 Jenna: It's late, you should probably come inside.
@@ -14110,6 +14110,6 @@ Katherine: Hello, John. Goodbye, John.
 Elena: I looked everywhere. Yeah, someone definitely took my stuff. I'm just gonna check on Jeremy before I go to the hospital. Can you meet me there? Okay. I love you Stefan.
 [She enters the house and goes to the bottom of the staircase.]
 
-Elena: (Shouting up the stairs.) Jeremy?! Are you up?
+Elena: [Shouting up the stairs.] Jeremy?! Are you up?
 [She hears a noise coming from the kitchen and starts walking towards it.]
 
